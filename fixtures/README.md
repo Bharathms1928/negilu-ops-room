@@ -65,6 +65,20 @@ Each of these is reproducible from the committed CSVs.
    in the room instructions as a check that the reproducer must test against
    history rather than assume — which is the point.
 
+7. **Column shift.** One row reads
+   `Arecanut,Sippegotu [Medium],ARAKALGUD,Hassan,12800,12800,12800,12800` —
+   arrivals equal to the min, max and modal price. Every other Sippegotu lot
+   that day is between 26 and 227 quintals, and 12,800 sits squarely inside
+   the Sippegotu *price* range of ₹11,000–₹13,700. The price was copied into
+   the arrivals column. On its own it adds 12,800 phantom quintals, and it is
+   most of what is left of the arrivals anomaly once the duplicates are
+   removed: Arecanut's total runs 3.78× its 30-day expectation with this row
+   in and 1.50× with it out.
+
+   This one was not written up by us. `negilu-repro` found it while proving
+   fault 1, generalised it into a feed-wide test — *arrivals == min == max ==
+   modal* — and reported that exactly one row in the day matches.
+
 **The stale-feed check has nothing to catch here.** Every row is dated
 2026-06-04. That is how a clean day looks on that axis, and the reproducer
 should say so rather than inventing something.
