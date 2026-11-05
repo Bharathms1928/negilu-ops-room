@@ -1,0 +1,33 @@
+# Never commit credentials. A .env committed once stays in git history even
+# after it is deleted, so rotate the secret rather than just removing the file.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# The two price fixtures ARE real public APMC rows and are committed on
+# purpose - see fixtures/README.md. What stays out is any database they were
+# exported from, and any scratch export.
+fixtures/export_*.csv
+fixtures/scratch_*.csv
+*.sqlite3
+*.db
+*.dump
+
+# Git Bash crash dumps
+*.stackdump
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
