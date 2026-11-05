@@ -129,9 +129,9 @@ agents:
 
       - **Stale feed.** Take the batch date to be the most recent date present
         in `raw_prices.csv`, and flag rows materially older than it. Do not
-        compare against today's wall-clock date: these are fixtures, and
-        whoever runs this may do so days later — every row would look stale
-        and the real planted fault would be lost in the noise.
+        compare against today's wall-clock date: this is one archived day,
+        and whoever runs it may do so months later — against the wall clock
+        every row looks stale and a real one is lost in the noise.
       - **Band.** The modal price sits outside the range that crop and grade
         reached in `price_history.csv` over the last 30 days. Quote the range.
       - **Thin arrivals.** Arrivals are low enough that one lot set the price,
