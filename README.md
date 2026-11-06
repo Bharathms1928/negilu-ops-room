@@ -102,9 +102,9 @@ Type these, in order. This is exactly what the demo video shows.
 2.  (triager restates, classifies, routes to @negilu-repro)
 
 3.  (repro reads fixtures/raw_prices.csv and fixtures/price_history.csv,
-     finds 496 of 671 rows duplicated across commodity labels, and reports
-     that the day's arrivals inflate 46% — 2,935,051 quintals against a
-     real 2,015,169 — then drafts the fix)
+     checks is_valid first, and reports that 33 duplicate groups survive
+     the pipeline's own filter — 2,187,176 quintals published against a
+     real 2,010,424, an 8.8% overstatement — then drafts the fix)
 
 4.  approved — de-duplicate on mandi+grade before publishing, and log it
 
@@ -125,14 +125,20 @@ handling a repeat:
 
 **Real rows, not samples.** `fixtures/raw_prices.csv` is one real day —
 4 June 2026 — of Karnataka APMC prices from KRAMA, the state portal, as Negilu
-ingested them before canonicalisation. Nothing is planted: that day's feed
-genuinely duplicated 496 of its 671 rows across commodity labels, inflating
-arrivals by 46%, emitted `COMMODITY: Arecanut` as a crop name in 220 rows, and
-priced arecanut at HOSADURGA nineteen times under the day's median.
+ingested them before canonicalisation. Nothing is planted.
+
+Each row carries `is_valid`, Negilu's own verdict on it. 433 of the 671 rows
+were accepted and 238 were already rejected by the pipeline — and telling those
+apart is most of the work. Among the accepted rows, 33 duplicate groups survive
+and overstate the day's arrivals by **8.8%**; a price sits in the arrivals
+column at ARAKALGUD; and arecanut at HOSADURGA publishes ₹1,700 against
+₹26,300–32,649 everywhere else. Those three are live. The 220 rows with
+`COMMODITY: Arecanut` as the crop name, by contrast, are already caught.
+
 [`fixtures/README.md`](fixtures/README.md) documents each fault with the rows
-that show it. [`tools/export_day.py`](tools/export_day.py) is the script that
-produced the files, for anyone who wants a different day. The CSVs are
-committed, so no database and no credentials are needed to run the room.
+that prove it. [`tools/export_day.py`](tools/export_day.py) produced the files,
+for anyone who wants a different day. The CSVs are committed, so no database
+and no credentials are needed to run the room.
 
 ## Layout
 
@@ -140,6 +146,7 @@ committed, so no database and no credentials are needed to run the room.
 templates/negilu-ops.template.yaml   the room, both agents, their instructions
 tools/export_day.py                  re-export a real day from a Negilu database
 fixtures/raw_prices.csv              one real day of APMC rows, 671 of them
+                                     with Negilu's own is_valid verdict on each
 fixtures/price_history.csv           30-day bands per crop and grade
 fixtures/community_feedback.csv      community comments (not used by this room)
 fixtures/README.md                   what is wrong with that day, and how to tell

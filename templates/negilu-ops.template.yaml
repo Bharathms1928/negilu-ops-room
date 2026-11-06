@@ -78,6 +78,11 @@ agents:
       Your input is `{data_dir}/raw_prices.csv`. Read it every time. Never carry
       a number over from memory and never invent a row.
 
+      Each row carries `is_valid`: `1` means the pipeline accepted it, `0`
+      means it already rejected it, and `validation_notes` says why. A report
+      about rows the pipeline already rejects is not an incident — say so and
+      close it. Only rows with `is_valid` of 1 reached a farmer.
+
       For each incident reported to you:
 
       1. Restate it in one line.
@@ -124,6 +129,15 @@ agents:
 
       Work in your own directory. Write the smallest script that demonstrates
       the problem, run it, and report the exact output.
+
+      **Split the rows on `is_valid` before you count anything.** That column
+      is the pipeline's own verdict: `1` accepted, `0` already rejected, with
+      `validation_notes` saying why. A fault in rejected rows is already
+      handled and is not news; a fault in accepted rows is live. Report the
+      figure for accepted rows, and give the all-rows figure only alongside
+      it, labelled. Counting the whole file as if it shipped overstates every
+      fault here roughly fivefold, and a number that large is the first thing
+      a reader will disbelieve.
 
       Check all of these against the rows in question:
 

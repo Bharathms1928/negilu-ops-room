@@ -51,16 +51,21 @@ Full steps, including the two Windows quirks, are in [README.md](README.md).
 prices from KRAMA, the state portal, as Negilu ingested them before
 canonicalisation. Nothing is planted.
 
-That day's feed genuinely duplicated 496 of its 671 rows across commodity
-labels, inflating the day's arrivals by 46%; emitted `COMMODITY: Arecanut` as
-a crop name in 220 rows; and priced arecanut at HOSADURGA nineteen times under
-the day's median. [`fixtures/README.md`](fixtures/README.md) documents each
-fault with the rows that prove it, including one apparent fault that turns out
-not to be one.
+Every row carries `is_valid`, Negilu's own verdict on it: 433 of the 671 were
+accepted, 238 were already rejected by the pipeline. Separating the two is most
+of the job, and an agent that skips it overstates every fault here about
+fivefold.
 
-This is a bug in a product with real users, found by pointing the room at its
-own data. [`tools/export_day.py`](tools/export_day.py) is the script that
-produced the files.
+Three faults are live, in rows the pipeline accepted: 33 duplicate groups that
+overstate the day's arrivals by **8.8%**, a price sitting in the arrivals
+column at ARAKALGUD, and arecanut at HOSADURGA publishing ₹1,700 against
+₹26,300–32,649 everywhere else. A fourth — 220 rows with `COMMODITY: Arecanut`
+as the crop name — is already caught by a guard whose source comment names this
+exact date.
+
+[`fixtures/README.md`](fixtures/README.md) documents each with the rows that
+prove it, including one apparent fault that turns out not to be one.
+[`tools/export_day.py`](tools/export_day.py) produced the files.
 
 ## Checklist before submitting
 

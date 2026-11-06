@@ -1,672 +1,672 @@
-date,crop,variety_raw,grade,mandi,district,arrivals_quintal,min_price,max_price,modal_price
-2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,ARAKALGUD,Hassan,12800,12800,12800,12800
-2026-06-04,Arecanut,Coca,Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300
-2026-06-04,Arecanut,Coca [Average],Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300
-2026-06-04,Arecanut,New Variety [Average],New Variety,BANTWALA,Dakshina Kannada,33,27000,45000,30100
-2026-06-04,Arecanut,New Variety [Average],New Variety,BELTHANGADI,Dakshina Kannada,192,28000,46000,29000
-2026-06-04,Arecanut,Other [Average],Other,BHADRAVATHI,Shivamogga,26,10000,10000,10000
-2026-06-04,Arecanut,Pudi,Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000
-2026-06-04,Arecanut,Pudi [Average],Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000
-2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,BHADRAVATHI,Shivamogga,54,12000,12000,12000
-2026-06-04,Arecanut,Rashi [Non FAQ],Rashi,CHANNAGIRI,Davanagere,409,40000,54100,51480
-2026-06-04,Arecanut,Api,Api,CHITRADURGA,Chitradurga,1,52719,53129,52959
-2026-06-04,Arecanut,Api [Average],Api,CHITRADURGA,Chitradurga,1,52719,53129,52959
-2026-06-04,Arecanut,Bette [Average],Bette,CHITRADURGA,Chitradurga,30,37949,38399,38079
-2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,CHITRADURGA,Chitradurga,50,32209,32610,32400
-2026-06-04,Arecanut,Rashi [Average],Rashi,CHITRADURGA,Chitradurga,10,52239,52669,52489
-2026-06-04,Arecanut,Churu,Churu,DAVANAGERE,Davanagere,34,9502,9502,9502
-2026-06-04,Arecanut,Churu [Average],Churu,DAVANAGERE,Davanagere,34,9502,9502,9502
-2026-06-04,Arecanut,Sippegotu,Sippegotu,DAVANAGERE,Davanagere,48,13500,13500,13500
-2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,DAVANAGERE,Davanagere,48,13500,13500,13500
-2026-06-04,Arecanut,Other [Average],Other,HOLALKERE,Karnataka,112,24381,24588,24484
-2026-06-04,Arecanut,EDI [Medium],Edi,HONNALI,Davanagere,113,26800,26800,26800
-2026-06-04,Arecanut,Hale Chali [Average],Hale Chali,HONNAVAR,Uttara Kannada,22,42000,44000,43000
-2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,HONNAVAR,Uttara Kannada,29,37000,39000,38000
-2026-06-04,Arecanut,Coca,Coca,HOSADURGA,Chitradurga,75,1700,1700,1700
-2026-06-04,Arecanut,Coca [Average],Coca,HOSADURGA,Chitradurga,75,1700,1700,1700
-2026-06-04,Arecanut,Podi,Podi,HOSADURGA,Chitradurga,151,9000,9050,9020
-2026-06-04,Arecanut,Podi [Medium],Podi,HOSADURGA,Chitradurga,151,9000,9050,9020
-2026-06-04,Arecanut,Pudi,Pudi,K.R.NAGAR,Mysuru,100,9500,9500,9500
-2026-06-04,Arecanut,Pudi [Small],Pudi,K.R.NAGAR,Mysuru,100,9500,9500,9500
-2026-06-04,Arecanut,Sippegotu,Sippegotu,K.R.NAGAR,Mysuru,106,13000,13000,13000
-2026-06-04,Arecanut,Sippegotu [Small],Sippegotu,K.R.NAGAR,Mysuru,106,13000,13000,13000
-2026-06-04,Arecanut,Rashi [Average],Rashi,K.R.PET,Mandya,3,52000,52000,52000
-2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,K.R.PET,Mandya,30,13000,13000,13000
-2026-06-04,Arecanut,Churu,Churu,KADUR,Chikkamagaluru,782,10500,14000,11000
-2026-06-04,Arecanut,Churu [Medium],Churu,KADUR,Chikkamagaluru,782,10500,14000,11000
-2026-06-04,Arecanut,Other,Other,KADUR,Chikkamagaluru,119,6000,24500,24000
-2026-06-04,Arecanut,Other [Medium],Other,KADUR,Chikkamagaluru,119,6000,24500,24000
-2026-06-04,Arecanut,Sippegotu,Sippegotu,KADUR,Chikkamagaluru,227,11000,11000,11000
-2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,KADUR,Chikkamagaluru,227,11000,11000,11000
-2026-06-04,Arecanut,New Variety [Average],New Variety,KARKALA,Udupi,46,30000,47000,42500
-2026-06-04,Arecanut,Old Variety [Average],Old Variety,KARKALA,Udupi,4,35000,55000,42500
-2026-06-04,Arecanut,Gorabalu [Average],Gorabalu,KOPPA,Chikkamagaluru,90,38099,39501,38909
-2026-06-04,Arecanut,Rashi [Average],Rashi,KOPPA,Chikkamagaluru,57,46011,53800,50580
-2026-06-04,Arecanut,Chippu [Average],Chippu,KUMTA,Karnataka,11,16301,39109,34759
-2026-06-04,Arecanut,Coca [Average],Coca,KUMTA,Karnataka,7,15999,36596,32649
-2026-06-04,Arecanut,Hale Chali [Average],Hale Chali,KUMTA,Karnataka,21,47698,48398,48139
-2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,KUMTA,Karnataka,65,35689,47699,43549
-2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,KUNDAPUR,Karnataka,30,46500,47000,46600
-2026-06-04,Arecanut,Coca [Average],Coca,MANGALURU,Dakshina Kannada,50,25000,33500,29300
-2026-06-04,Arecanut,New Variety [Average],New Variety,MANGALURU,Dakshina Kannada,50,30000,47000,32000
-2026-06-04,Arecanut,Old Variety [Average],Old Variety,MANGALURU,Dakshina Kannada,50,36000,55000,45500
-2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,PERIYAPATNA,Mysuru,32,12900,12900,12900
-2026-06-04,Arecanut,Coca [Average],Coca,PUTTUR,Dakshina Kannada,324,20000,33500,29000
-2026-06-04,Arecanut,Bilegotu,Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299
-2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299
-2026-06-04,Arecanut,Chali,Chali,SAGAR,Shivamogga,179,34099,42009,41599
-2026-06-04,Arecanut,Chali [Average],Chali,SAGAR,Shivamogga,179,34099,42009,41599
-2026-06-04,Arecanut,Coca,Coca,SAGAR,Shivamogga,113,14099,36800,32500
-2026-06-04,Arecanut,Coca [Average],Coca,SAGAR,Shivamogga,113,14099,36800,32500
-2026-06-04,Arecanut,Kempugotu,Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699
-2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699
-2026-06-04,Arecanut,Rashi,Rashi,SAGAR,Shivamogga,215,36170,60670,52899
-2026-06-04,Arecanut,Rashi [Average],Rashi,SAGAR,Shivamogga,215,36170,60670,52899
-2026-06-04,Arecanut,Sippegotu,Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699
-2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699
-2026-06-04,Arecanut,Rashi [Small],Rashi,SHIKARIPUR,Shivamogga,11,50793,50793,50793
-2026-06-04,Arecanut,Bette [Average],Bette,SHIVAMOGGA,Shivamogga,13,52069,62499,62059
-2026-06-04,Arecanut,Gorabalu [Average],Gorabalu,SHIVAMOGGA,Shivamogga,504,30009,43000,40059
-2026-06-04,Arecanut,Other [Average],Other,SHIVAMOGGA,Shivamogga,4,50211,50211,50211
-2026-06-04,Arecanut,Rashi [Average],Rashi,SHIVAMOGGA,Shivamogga,1006,47669,54199,52769
-2026-06-04,Arecanut,Saraku [Average],Saraku,SHIVAMOGGA,Shivamogga,10,61699,97999,80099
-2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SIDDAPURA,Karnataka,21,26079,35299,32309
-2026-06-04,Arecanut,Chali [Average],Chali,SIDDAPURA,Karnataka,115,39099,48039,47339
-2026-06-04,Arecanut,Coca [Average],Coca,SIDDAPURA,Karnataka,16,23919,33699,27699
-2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SIDDAPURA,Karnataka,3,34000,35800,35500
-2026-06-04,Arecanut,Rashi [Average],Rashi,SIDDAPURA,Karnataka,21,47639,52899,51899
-2026-06-04,Arecanut,Tattibettee [Average],Tattibettee,SIDDAPURA,Karnataka,5,37619,45269,42289
-2026-06-04,Arecanut,Bette [Average],Bette,SIRSI,Tumkur,13,42699,49909,45095
-2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SIRSI,Tumkur,98,25099,36698,32777
-2026-06-04,Arecanut,Chali [Average],Chali,SIRSI,Tumkur,411,44099,49019,47617
-2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SIRSI,Tumkur,3,27509,41699,32818
-2026-06-04,Arecanut,Rashi [Average],Rashi,SIRSI,Tumkur,55,50000,54559,51837
-2026-06-04,Arecanut,Coca [Average],Coca,SULYA,Dakshina Kannada,864,20000,33000,28000
-2026-06-04,Arecanut,New Variety [Average],New Variety,SULYA,Dakshina Kannada,57,44000,45500,45000
-2026-06-04,Arecanut,Bilegotu,Bilegotu,TARIKERE,Chikkamagaluru,7,10000,10000,10000
-2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,TARIKERE,Chikkamagaluru,7,10000,10000,10000
-2026-06-04,Arecanut,Other [Average],Other,TARIKERE,Chikkamagaluru,408,25000,25000,25000
-2026-06-04,Arecanut,Rashi [Average],Rashi,TIRTHAHALLI,Shivamogga,20,49000,50072,49000
-2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,TIRTHAHALLI,Shivamogga,78,13100,14000,13700
-2026-06-04,Arecanut,Api [Average],Api,YELLAPURA,Uttara Kannada,2,60299,60299,60299
-2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,YELLAPURA,Uttara Kannada,19,17109,35600,32899
-2026-06-04,Arecanut,Chali [Average],Chali,YELLAPURA,Uttara Kannada,143,38199,48700,47199
-2026-06-04,Arecanut,Coca [Average],Coca,YELLAPURA,Uttara Kannada,42,16000,32899,29299
-2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,YELLAPURA,Uttara Kannada,10,17099,36799,32917
-2026-06-04,Arecanut,Rashi [Average],Rashi,YELLAPURA,Uttara Kannada,76,51009,57119,53499
-2026-06-04,Arecanut,Tattibettee [Average],Tattibettee,YELLAPURA,Uttara Kannada,20,38701,48119,46289
-2026-06-04,Banana,Banana - Green (Balekai),Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100
-2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,BINNY MILL (F&V),Bengaluru Urban,571,1000,4500,2750
-2026-06-04,Banana,Nauti Bale [Average],Nauti Bale,BINNY MILL (F&V),Bengaluru Urban,25,700,2200,1450
-2026-06-04,Banana,Nendra Bale [Average],Nendra Bale,BINNY MILL (F&V),Bengaluru Urban,69,1000,2500,1750
-2026-06-04,Banana,Pachha Bale [Average],Pachha Bale,BINNY MILL (F&V),Bengaluru Urban,345,600,2600,1600
-2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,CHANNAPATNA,Ramanagara,50,1700,4800,4000
-2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,DAVANAGERE,Davanagere,50,2400,4700,3800
-2026-06-04,Banana,Pachha Bale [Average],Pachha Bale,DAVANAGERE,Davanagere,35,1000,2500,1800
-2026-06-04,Banana,Banana - Green (Balekai),Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000
-2026-06-04,Banana,Medium [Average],Medium,UDIPI,Udupi,45,1500,3500,1800
-2026-06-04,Banana Green,Banana - Green (Balekai) [Average],Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100
-2026-06-04,Banana Green,Banana - Green (Balekai) [Medium],Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000
-2026-06-04,Black Pepper,Other,Other,SAGAR,Shivamogga,2,63899,65099,64709
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300
-2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,BANTWALA,Dakshina Kannada,33,27000,45000,30100
-2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,BELTHANGADI,Dakshina Kannada,192,28000,46000,29000
-2026-06-04,COMMODITY: Arecanut,Other [Average],Other,BHADRAVATHI,Shivamogga,26,10000,10000,10000
-2026-06-04,COMMODITY: Arecanut,Pudi [Average],Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000
-2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,BHADRAVATHI,Shivamogga,54,12000,12000,12000
-2026-06-04,COMMODITY: Arecanut,Rashi [Non FAQ],Rashi,CHANNAGIRI,Davanagere,409,40000,54100,51480
-2026-06-04,COMMODITY: Arecanut,Api [Average],Api,CHITRADURGA,Chitradurga,1,52719,53129,52959
-2026-06-04,COMMODITY: Arecanut,Bette [Average],Bette,CHITRADURGA,Chitradurga,30,37949,38399,38079
-2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,CHITRADURGA,Chitradurga,50,32209,32610,32400
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,CHITRADURGA,Chitradurga,10,52239,52669,52489
-2026-06-04,COMMODITY: Arecanut,EDI [Medium],Edi,HONNALI,Davanagere,113,26800,26800,26800
-2026-06-04,COMMODITY: Arecanut,Hale Chali [Average],Hale Chali,HONNAVAR,Uttara Kannada,22,42000,44000,43000
-2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,HONNAVAR,Uttara Kannada,29,37000,39000,38000
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,HOSADURGA,Chitradurga,75,1700,1700,1700
-2026-06-04,COMMODITY: Arecanut,Podi [Medium],Podi,HOSADURGA,Chitradurga,151,9000,9050,9020
-2026-06-04,COMMODITY: Arecanut,Chippu [Average],Chippu,KUMTA,Karnataka,11,16301,39109,34759
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,KUMTA,Karnataka,7,15999,36596,32649
-2026-06-04,COMMODITY: Arecanut,Hale Chali [Average],Hale Chali,KUMTA,Karnataka,21,47698,48398,48139
-2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,KUMTA,Karnataka,65,35689,47699,43549
-2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,KUNDAPUR,Karnataka,30,46500,47000,46600
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,MANGALURU,Dakshina Kannada,50,25000,33500,29300
-2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,MANGALURU,Dakshina Kannada,50,30000,47000,32000
-2026-06-04,COMMODITY: Arecanut,Old Variety [Average],Old Variety,MANGALURU,Dakshina Kannada,50,36000,55000,45500
-2026-06-04,COMMODITY: Arecanut,Sippegotu [Medium],Sippegotu,PERIYAPATNA,Mysuru,32,12900,12900,12900
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,PUTTUR,Dakshina Kannada,324,20000,33500,29000
-2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299
-2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SAGAR,Shivamogga,179,34099,42009,41599
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SAGAR,Shivamogga,113,14099,36800,32500
-2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SAGAR,Shivamogga,215,36170,60670,52899
-2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699
-2026-06-04,COMMODITY: Arecanut,Rashi [Small],Rashi,SHIKARIPUR,Shivamogga,11,50793,50793,50793
-2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SIDDAPURA,Karnataka,21,26079,35299,32309
-2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SIDDAPURA,Karnataka,115,39099,48039,47339
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SIDDAPURA,Karnataka,16,23919,33699,27699
-2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SIDDAPURA,Karnataka,3,34000,35800,35500
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SIDDAPURA,Karnataka,21,47639,52899,51899
-2026-06-04,COMMODITY: Arecanut,Tattibettee [Average],Tattibettee,SIDDAPURA,Karnataka,5,37619,45269,42289
-2026-06-04,COMMODITY: Arecanut,Bette [Average],Bette,SIRSI,Tumkur,13,42699,49909,45095
-2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SIRSI,Tumkur,98,25099,36698,32777
-2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SIRSI,Tumkur,411,44099,49019,47617
-2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SIRSI,Tumkur,3,27509,41699,32818
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SIRSI,Tumkur,55,50000,54559,51837
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SULYA,Dakshina Kannada,864,20000,33000,28000
-2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,SULYA,Dakshina Kannada,57,44000,45500,45000
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,TIRTHAHALLI,Shivamogga,20,49000,50072,49000
-2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,TIRTHAHALLI,Shivamogga,78,13100,14000,13700
-2026-06-04,COMMODITY: Arecanut,Api [Average],Api,YELLAPURA,Uttara Kannada,2,60299,60299,60299
-2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,YELLAPURA,Uttara Kannada,19,17109,35600,32899
-2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,YELLAPURA,Uttara Kannada,143,38199,48700,47199
-2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,YELLAPURA,Uttara Kannada,42,16000,32899,29299
-2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,YELLAPURA,Uttara Kannada,10,17099,36799,32917
-2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,YELLAPURA,Uttara Kannada,76,51009,57119,53499
-2026-06-04,COMMODITY: Arecanut,Tattibettee [Average],Tattibettee,YELLAPURA,Uttara Kannada,20,38701,48119,46289
-2026-06-04,COMMODITY: Banana,Elakki Bale [Average],Elakki Bale,BINNY MILL (F&V),Bengaluru Urban,571,1000,4500,2750
-2026-06-04,COMMODITY: Banana,Nauti Bale [Average],Nauti Bale,BINNY MILL (F&V),Bengaluru Urban,25,700,2200,1450
-2026-06-04,COMMODITY: Banana,Nendra Bale [Average],Nendra Bale,BINNY MILL (F&V),Bengaluru Urban,69,1000,2500,1750
-2026-06-04,COMMODITY: Banana,Pachha Bale [Average],Pachha Bale,BINNY MILL (F&V),Bengaluru Urban,345,600,2600,1600
-2026-06-04,COMMODITY: Banana,Elakki Bale [Average],Elakki Bale,CHANNAPATNA,Ramanagara,50,1700,4800,4000
-2026-06-04,COMMODITY: Banana,Medium [Average],Medium,UDIPI,Udupi,45,1500,3500,1800
-2026-06-04,COMMODITY: Banana Green,Banana - Green (Balekai) [Average],Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100
-2026-06-04,COMMODITY: Banana Green,Banana - Green (Balekai) [Medium],Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000
-2026-06-04,COMMODITY: Copra,Copra [Medium],Copra,ARSIKERE,Hassan,22,29000,29000,29000
-2026-06-04,COMMODITY: Copra,Milling [Medium],Milling,ARSIKERE,Hassan,209,20000,22998,22998
-2026-06-04,COMMODITY: Copra,Other [Medium],Other,ARSIKERE,Hassan,56,9500,10000,9500
-2026-06-04,COMMODITY: Copra,Copra [Average],Copra,TIPTUR,Tumkur,1340,29200,31500,30000
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Small],Green Chilly,BAGEPALLI,Chickballapur,23,2800,3500,3000
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,BANGARPET,Kolar,5,2000,3000,2500
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,BINNY MILL (F&V),Bengaluru Urban,272,3700,4000,3900
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,C.R.NAGAR,Mysuru,15,2500,3000,2750
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHANNAPATNA,Ramanagara,2,3000,3500,3300
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHIKKAMAGALURU,Chikkamagaluru,26,2400,2600,2565
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHINTAMANI,Chickballapur,10,2000,3000,2500
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Medium],Green Chilly,DODDABALLAPUR,Bengaluru Rural,3,3500,4500,4000
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,GOWRIBIDNUR,Karnataka,2,3000,4000,3500
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Medium],Green Chilly,HONNALI,Davanagere,20,2500,3000,2800
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,RAMANAGARA,Ramanagara,12,3000,5000,4000
-2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,SHIVAMOGGA,Shivamogga,30,3000,4000,3500
-2026-06-04,COMMODITY: Green Ginger,Green Ginger [Medium],Green Ginger,BENGALURU,Bengaluru Urban,506,5000,10000,8000
-2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,BINNY MILL (F&V),Bengaluru Urban,105,6500,7500,7000
-2026-06-04,COMMODITY: Green Ginger,Green Ginger [Medium],Green Ginger,DODDABALLAPUR,Bengaluru Rural,2,8000,12000,10000
-2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,RAMANAGARA,Ramanagara,7,7400,8600,8000
-2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,TIRTHAHALLI,Shivamogga,903,14069,14069,14069
-2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379
-2026-06-04,COMMODITY: Groundnut,Big (With Shell) [Medium],Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500
-2026-06-04,COMMODITY: Groundnut,Gejje [Medium],Gejje,GADAG,Gadag,35,5269,7559,6824
-2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,HUBBALLI,Dharwad,64,4920,7630,5868
-2026-06-04,COMMODITY: Groundnut,Gejje [Small],Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575
-2026-06-04,COMMODITY: Groundnut,Gungri (With Shell) [Non FAQ],Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425
-2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,SAVANUR,Haveri,9,3339,7881,6718
-2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638
-2026-06-04,COMMODITY: Jowar,Local [Small],Local,BALLARI,Ballari,58,1856,3609,2256
-2026-06-04,COMMODITY: Jowar,Hybrid [Medium],Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),BASAVAKALYANA,Bidar,10,1900,2600,2000
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),BENGALURU,Bengaluru Urban,30,3200,3800,3500
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),GADAG,Gadag,103,1909,4737,3885
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Average],Jowar (White),HUBBALLI,Dharwad,35,1606,5012,3046
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Small],Jowar (White),KALABURAGI,Kalaburagi,60,2100,5100,4200
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [FAQ],Jowar (White),RAICHUR,Raichur,7,4212,4417,4417
-2026-06-04,COMMODITY: Jowar,Jowar ( White) [Average],Jowar (White),VIJAYAPURA,Vijayapura,29,2300,3040,2670
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,BAGALKOT,Bagalkot,149,2069,2146,2127
-2026-06-04,COMMODITY: Maize,Local [Small],Local,BALLARI,Ballari,35,1459,2202,1978
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Medium],Hybrid/Local,BENGALURU,Bengaluru Urban,142,2300,2500,2400
-2026-06-04,COMMODITY: Maize,Local [Average],Local,BHADRAVATHI,Shivamogga,87,2200,2200,2200
-2026-06-04,COMMODITY: Maize,Yellow [Average],Yellow,CHALLAKERE,Chitradurga,500,2150,2150,2150
-2026-06-04,COMMODITY: Maize,Local [Non FAQ],Local,CHANNAGIRI,Davanagere,723,1600,1600,1600
-2026-06-04,COMMODITY: Maize,Local [Medium],Local,DODDABALLAPUR,Bengaluru Rural,354,2150,2150,2150
-2026-06-04,COMMODITY: Maize,Local [Medium],Local,GADAG,Gadag,9,1802,2029,1855
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Large],Hybrid/Local,HAGARI BOMMANA HALLI,Karnataka,402,1950,2000,2000
-2026-06-04,COMMODITY: Maize,Local [Medium],Local,HANGAL,Haveri,1723,1950,2140,2140
-2026-06-04,COMMODITY: Maize,Hybrid/Local [FAQ],Hybrid/Local,HARAPANAHALLI,Karnataka,1541,2000,2100,2024
-2026-06-04,COMMODITY: Maize,Local [Average],Local,HAVERI,Haveri,48,1850,1850,1850
-2026-06-04,COMMODITY: Maize,Local [Medium],Local,HONNALI,Davanagere,3064,2000,2350,2077
-2026-06-04,COMMODITY: Maize,Local [Small],Local,KALABURAGI,Kalaburagi,10,1800,2400,2000
-2026-06-04,COMMODITY: Maize,Yellow [Small],Yellow,KOPPAL,Koppal,208,2040,2170,2129
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,KOTTUR,Ballari,378,1861,1910,1909
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,KUDCHI,,96,2200,2250,2220
-2026-06-04,COMMODITY: Maize,Local [Medium],Local,RANIBENNUR,Haveri,3479,1710,2235,1972
-2026-06-04,COMMODITY: Maize,Local [Small],Local,SHIKARIPUR,Shivamogga,2130,1980,2200,2098
-2026-06-04,COMMODITY: Maize,Local [Average],Local,SINDHANUR,Raichur,91,2200,2200,2200
-2026-06-04,COMMODITY: Maize,Local [Large],Local,TALIKOTE,Vijayapura,77,1840,1840,1840
-2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,VIJAYAPURA,Vijayapura,1248,2134,2134,2134
-2026-06-04,COMMODITY: Mango,Badami [Average],Badami [Average],BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200
-2026-06-04,COMMODITY: Mango,Raspuri [Average],Raspuri [Average],BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000
-2026-06-04,COMMODITY: Mango,Sindura [Average],Sindura [Average],BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500
-2026-06-04,COMMODITY: Mango,Totapuri [Average],Totapuri [Average],BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000
-2026-06-04,COMMODITY: Mango,Badami [Average],Badami [Average],SRINIVASPUR,Kolar,600,2000,3000,2200
-2026-06-04,COMMODITY: Mango,Hapus(Alphaso) [Average],Hapus(Alphaso) [Average],SRINIVASPUR,Kolar,5784,1000,1800,1300
-2026-06-04,COMMODITY: Mango,Mango [Average],Mango [Average],SRINIVASPUR,Kolar,610,2000,3000,2100
-2026-06-04,COMMODITY: Mango,Other [Average],Other [Average],SRINIVASPUR,Kolar,2645,1900,2200,2000
-2026-06-04,COMMODITY: Mango,Rajgiri [Average],Rajgiri [Average],SRINIVASPUR,Kolar,750,1000,2000,1500
-2026-06-04,COMMODITY: Mango,Raspuri [Average],Raspuri [Average],SRINIVASPUR,Kolar,200,2000,2500,2200
-2026-06-04,COMMODITY: Onion,Onion [Average],Onion,BANGARPET,Kolar,34,1000,2000,1500
-2026-06-04,COMMODITY: Onion,Bangalore Small [Small],Bangalore Small,BENGALURU,Bengaluru Urban,4693,400,1000,800
-2026-06-04,COMMODITY: Onion,Local [Medium],Local,BENGALURU,Bengaluru Urban,4693,1000,1400,1100
-2026-06-04,COMMODITY: Onion,Onion [Large],Onion,BENGALURU,Bengaluru Urban,4693,1600,2200,1800
-2026-06-04,COMMODITY: Onion,Puna [Average],Puna,BENGALURU,Bengaluru Urban,9385,1000,2400,1500
-2026-06-04,COMMODITY: Onion,Other [Average],Other,CHIKKAMAGALURU,Chikkamagaluru,111,1500,1700,1652
-2026-06-04,COMMODITY: Onion,Onion [Medium],Onion,DODDABALLAPUR,Bengaluru Rural,18,1500,2000,1700
-2026-06-04,COMMODITY: Onion,Puna [Average],Puna,HUBBALLI,Dharwad,2150,500,1900,1700
-2026-06-04,COMMODITY: Onion,Onion [Average],Onion,SHIVAMOGGA,Shivamogga,30,1000,2000,1500
-2026-06-04,COMMODITY: Onion,Onion [Average],Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200
-2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,BHADRAVATHI,Shivamogga,4048,2200,2200,2200
-2026-06-04,COMMODITY: Paddy,Paddy [Average],Paddy,CHALLAKERE,Chitradurga,214,1900,1900,1900
-2026-06-04,COMMODITY: Paddy,Paddy [Non FAQ],Paddy,CHANNAGIRI,Davanagere,7893,2500,3060,2618
-2026-06-04,COMMODITY: Paddy,Kaveri sona [Small],Kaveri Sona,GANGAVATI,Koppal,509,2293,2573,2293
-2026-06-04,COMMODITY: Paddy,Paddy RNR New [Small],Paddy Rnr New,GANGAVATI,Koppal,6882,2587,2880,2760
-2026-06-04,COMMODITY: Paddy,Paddy RNR Old [Small],Paddy Rnr Old,GANGAVATI,Koppal,453,3461,3481,3466
-2026-06-04,COMMODITY: Paddy,Sona Masuri Old [Small],Sona Masuri Old,GANGAVATI,Koppal,11321,2900,3267,3000
-2026-06-04,COMMODITY: Paddy,Sona Mahsuri [Large],Sona Masuri,HAGARI BOMMANA HALLI,Karnataka,608,2130,2500,2500
-2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,HALIYALA,Karnataka,414,2200,2600,2600
-2026-06-04,COMMODITY: Paddy,Paddy [Medium],Paddy,HANGAL,Haveri,1505,1900,2650,2600
-2026-06-04,COMMODITY: Paddy,Paddy RNR New [Small],Paddy Rnr New,HARIHARA,Karnataka,5979,2450,2680,2565
-2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Medium],Paddy Medium Variety,HONNALI,Davanagere,2713,2000,2600,2493
-2026-06-04,COMMODITY: Paddy,Paddy [Average],Paddy,KAMPLI,Karnataka,7445,2300,2800,2550
-2026-06-04,COMMODITY: Paddy,Sona Mahsuri [FAQ],Sona Masuri,RAICHUR,Raichur,341,2252,2813,2670
-2026-06-04,COMMODITY: Paddy,Paddy [Medium],Paddy,RANIBENNUR,Haveri,752,2520,2580,2550
-2026-06-04,COMMODITY: Paddy,Paddy [Small],Paddy,SHIKARIPUR,Shivamogga,4482,2450,2900,2529
-2026-06-04,COMMODITY: Paddy,Paddy RNR New [Average],Paddy Rnr New,SINDHANUR,Raichur,26204,2000,2687,2680
-2026-06-04,COMMODITY: Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SINDHANUR,Raichur,16389,2690,3410,2900
-2026-06-04,COMMODITY: Paddy,Jaya [Average],Jaya,SRIRANGAPATNA,Mandya,778,1875,2800,2400
-2026-06-04,COMMODITY: Paddy,I.R. 64 [Average],I.R. 64,TIRTHAHALLI,Shivamogga,75,2600,2600,2600
-2026-06-04,COMMODITY: Ragi,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,231,4800,5200,5000
-2026-06-04,COMMODITY: Ragi,Local [Average],Local,C.R.NAGAR,Mysuru,1,4500,4500,4500
-2026-06-04,COMMODITY: Ragi,Local [Average],Local,GUNDLUPET,Tumkur,385,3100,3120,3100
-2026-06-04,COMMODITY: Ragi,Local [Average],Local,HARAPANAHALLI,Karnataka,1148,3100,3350,3190
-2026-06-04,COMMODITY: Ragi,Local [Medium],Local,HONNALI,Davanagere,197,3080,3080,3080
-2026-06-04,COMMODITY: Ragi,Hybrid [Average],Hybrid,KOTTUR,Ballari,5,3109,3121,3112
-2026-06-04,COMMODITY: Ragi,Local [Average],Local,PERIYAPATNA,Mysuru,203,3000,3300,3200
-2026-06-04,COMMODITY: Rice,Other [Average],Other,BANTWALA,Dakshina Kannada,140,2000,2800,2600
-2026-06-04,COMMODITY: Rice,Dappa [Medium],Dappa,BENGALURU,Bengaluru Urban,13316,3800,4300,4050
-2026-06-04,COMMODITY: Rice,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,17755,6000,6600,6300
-2026-06-04,COMMODITY: Rice,Medium [Medium],Medium,BENGALURU,Bengaluru Urban,13316,5300,6000,5650
-2026-06-04,COMMODITY: Rice,Medium [Average],Medium,BHADRAVATHI,Shivamogga,349,2350,2500,2500
-2026-06-04,COMMODITY: Rice,CR 1009 (Coarse) Boiled [Small],Cr 1009 (Coarse) Boiled,BIDAR,Bidar,50,4800,5500,5200
-2026-06-04,COMMODITY: Rice,Broken Rice [Small],Broken Rice,GANGAVATI,Koppal,504,2240,2240,2240
-2026-06-04,COMMODITY: Rice,Other [Small],Other,GANGAVATI,Koppal,4825,2300,2688,2420
-2026-06-04,COMMODITY: Rice,Broken Rice [Average],Broken Rice,KALABURAGI,Kalaburagi,10,2900,3850,3400
-2026-06-04,COMMODITY: Rice,Coarse [Average],Coarse,KALABURAGI,Kalaburagi,10,4000,5200,4700
-2026-06-04,COMMODITY: Rice,Fine [Average],Fine,KALABURAGI,Kalaburagi,30,5250,6500,6000
-2026-06-04,COMMODITY: Rice,Boiled Rice [Small],Boiled Rice,SAKLESHPUR,Hassan,314,2500,2505,2500
-2026-06-04,COMMODITY: Rice,Medium [Average],Medium,SINDHANUR,Raichur,831,2500,4700,4500
-2026-06-04,COMMODITY: Sunflower,Sunflower [Average],Sunflower,BAGALKOT,Bagalkot,24,6800,7629,7380
-2026-06-04,COMMODITY: Sunflower,Sunflower [Small],Sunflower,BALLARI,Ballari,1,6569,6569,6569
-2026-06-04,COMMODITY: Sunflower,Sunflower [Medium],Sunflower,GADAG,Gadag,34,7082,7082,7082
-2026-06-04,COMMODITY: Sunflower,Hybrid [Small],Hybrid,KOPPAL,Koppal,1,6870,6870,6870
-2026-06-04,COMMODITY: Sunflower,Sunflower [Average],Sunflower,VIJAYAPURA,Vijayapura,24,6883,6883,6883
-2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.NAGAR,Mysuru,63850,20000,23000,20800
-2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,GUNDLUPET,Tumkur,10000,20000,20000,20000
-2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,K.R.PET,Mandya,325000,10000,40000,15000
-2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,MANDYA,Mandya,65080,10000,47830,25000
-2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,PANDAVAPURA,Mandya,50000,22000,26000,25000
-2026-06-04,COMMODITY: Tomato,Tomato [Small],Tomato,BAGEPALLI,Chickballapur,339,384,3384,2769
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,BANGARPET,Kolar,93,1000,1700,1500
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,BINNY MILL (F&V),Bengaluru Urban,418,3200,3500,3400
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,C.R.NAGAR,Mysuru,35,1500,3000,2300
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHANNAPATNA,Ramanagara,20,2000,4000,3500
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHIKKAMAGALURU,Chikkamagaluru,40,3600,3800,3751
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHINTAMANI,Chickballapur,815,330,3000,1466
-2026-06-04,COMMODITY: Tomato,Tomato [Medium],Tomato,DODDABALLAPUR,Bengaluru Rural,14,2500,3500,3000
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,GOWRIBIDNUR,Karnataka,12,2000,4000,3000
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,GUNDLUPET,Tumkur,10,3300,3300,3300
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,NANJANGUD,Mysuru,36,3030,5555,3703
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,RAMANAGARA,Ramanagara,44,3000,4000,3500
-2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,SHIVAMOGGA,Shivamogga,500,1600,3200,2100
-2026-06-04,COMMODITY: Tur,Tur [Average],Tur,BAGALKOT,Bagalkot,325,6500,7800,6997
-2026-06-04,COMMODITY: Tur,Tur [Small],Tur,BALLARI,Ballari,2,4679,4679,4679
-2026-06-04,COMMODITY: Tur,Tur [Medium],Tur,BASAVAKALYANA,Bidar,66,4000,7541,7300
-2026-06-04,COMMODITY: Tur,Red [Small],Red,BIDAR,Bidar,1901,5888,7908,7436
-2026-06-04,COMMODITY: Tur,Tur [Small],Tur,CHINCOLI,Karnataka,791,7600,7800,7700
-2026-06-04,COMMODITY: Tur,Tur [Medium],Tur,GADAG,Gadag,6,3212,4477,4227
-2026-06-04,COMMODITY: Tur,Tur [Average],Tur,HUBBALLI,Dharwad,3,4036,6029,5697
-2026-06-04,COMMODITY: Tur,Tur [Average],Tur,KALABURAGI,Kalaburagi,600,6000,8000,7500
-2026-06-04,COMMODITY: Tur,Red [Medium],Red,KUSTAGI,Karnataka,295,7600,7600,7600
-2026-06-04,COMMODITY: Tur,Tur [Small],Tur,LAXMESHWAR,Gadag,1,5160,5160,5160
-2026-06-04,COMMODITY: Tur,Tur [Small],Tur,LINGASARGUR,Karnataka,437,7550,8000,7600
-2026-06-04,COMMODITY: Tur,Red [Non FAQ],Red,RAICHUR,Raichur,276,6179,7790,7460
-2026-06-04,COMMODITY: Tur,Tur [Large],Tur,TALIKOTE,Vijayapura,1385,6500,7701,7264
-2026-06-04,COMMODITY: Tur,Tur [Average],Tur,VIJAYAPURA,Vijayapura,471,7261,7565,7500
-2026-06-04,Chilli,Guntur,Guntur,BENGALURU,Bengaluru Urban,105,20000,26000,23000
-2026-06-04,Chilli,Dabbi,Dabbi,BYADGI,Haveri,191,5009,59000,48288
-2026-06-04,Chilli,Guntur,Guntur,BYADGI,Haveri,295,1409,17589,12659
-2026-06-04,Chilli,Kaddi,Kaddi,BYADGI,Haveri,399,4419,50001,46509
-2026-06-04,Chilli,Byadgi,Byadgi,CHALLAKERE,Chitradurga,32,6300,6300,6300
-2026-06-04,Chilli,Guntur,Guntur,SINDHANUR,Raichur,43,17700,23400,17700
-2026-06-04,Coconut,Medium,Medium,C.R.PATNA,Hassan,10000,20000,20000,20000
-2026-06-04,Coconut,Small,Small,HOSADURGA,Chitradurga,34510,19000,21000,20000
-2026-06-04,Coconut,Coconut,Coconut,HUNSUR,Mysuru,2000,20000,20000,20000
-2026-06-04,Coconut,Coconut,Coconut,KADUR,Chikkamagaluru,23275,22000,24000,22000
-2026-06-04,Coconut,Coconut,Coconut,TARIKERE,Chikkamagaluru,104230,18000,28600,25789
-2026-06-04,Coconut,Medium,Medium,YELLAPURA,Uttara Kannada,42330,23110,24000,24000
-2026-06-04,Copra,Copra [Medium],Copra,ARSIKERE,Hassan,22,29000,29000,29000
-2026-06-04,Copra,Milling,Milling,ARSIKERE,Hassan,209,20000,22998,22998
-2026-06-04,Copra,Milling [Medium],Milling,ARSIKERE,Hassan,209,20000,22998,22998
-2026-06-04,Copra,Other [Medium],Other,ARSIKERE,Hassan,56,9500,10000,9500
-2026-06-04,Copra,Milling,Milling,C.R.PATNA,Hassan,30,17500,17500,17500
-2026-06-04,Copra,Milling [Average],Milling,C.R.PATNA,Hassan,30,17500,17500,17500
-2026-06-04,Copra,Small,Small,GUBBI,Tumkur,125,25000,30000,28000
-2026-06-04,Copra,Small [Medium],Small,GUBBI,Tumkur,125,25000,30000,28000
-2026-06-04,Copra,Milling [Medium],Milling,HULIYAR,Tumkur,29,19000,19363,19042
-2026-06-04,Copra,Small,Small,HULIYAR,Tumkur,120,19000,19250,19000
-2026-06-04,Copra,Small [Medium],Small,HULIYAR,Tumkur,120,19000,19250,19000
-2026-06-04,Copra,Medium,Medium,KADUR,Chikkamagaluru,84,20000,20000,20000
-2026-06-04,Copra,Medium [Medium],Medium,KADUR,Chikkamagaluru,84,20000,20000,20000
-2026-06-04,Copra,Other,Other,KADUR,Chikkamagaluru,102,16000,16000,16000
-2026-06-04,Copra,Other [Medium],Other,KADUR,Chikkamagaluru,102,16000,16000,16000
-2026-06-04,Copra,Medium [Medium],Medium,NAGAMANGALA,Mandya,50,27000,27000,27000
-2026-06-04,Copra,Other,Other,SIRA,Tumkur,17,10000,10000,10000
-2026-06-04,Copra,Copra,Copra,TIPTUR,Tumkur,1340,29200,31500,30000
-2026-06-04,Copra,Copra [Average],Copra,TIPTUR,Tumkur,1340,29200,31500,30000
-2026-06-04,Copra,Copra,Copra,TURUVEKERE,Tumkur,31,30000,30000,30000
-2026-06-04,Copra,Copra [Non FAQ],Copra,TURUVEKERE,Tumkur,31,30000,30000,30000
-2026-06-04,Copra,Other [Non FAQ],Other,TURUVEKERE,Tumkur,114,16000,18000,16000
-2026-06-04,Copra,Small [Non FAQ],Small,TURUVEKERE,Tumkur,100,20000,23000,20000
-2026-06-04,Green Chilly,Green Chilly [Small],Green Chilly,BAGEPALLI,Chickballapur,23,2800,3500,3000
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,BANGARPET,Kolar,5,2000,3000,2500
-2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,BELUR,Hassan,301,1700,1900,1752
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,BINNY MILL (F&V),Bengaluru Urban,272,3700,4000,3900
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,C.R.NAGAR,Mysuru,15,2500,3000,2750
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHANNAPATNA,Ramanagara,2,3000,3500,3300
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHIKKAMAGALURU,Chikkamagaluru,26,2400,2600,2565
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHINTAMANI,Chickballapur,10,2000,3000,2500
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,DAVANAGERE,Davanagere,40,1300,3700,2800
-2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,DODDABALLAPUR,Bengaluru Rural,3,3500,4500,4000
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,GOWRIBIDNUR,Karnataka,2,3000,4000,3500
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,HASSAN,Hassan,99,3000,3000,3000
-2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,HONNALI,Davanagere,20,2500,3000,2800
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,KALABURAGI,Kalaburagi,5,1400,2800,2100
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,KOLAR,Kolar,25,2000,3000,2400
-2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,MYSURU,Mysuru,58,2300,2500,2400
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,RAMANAGARA,Ramanagara,12,3000,5000,4000
-2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,RANIBENNUR,Haveri,3,1200,3500,2800
-2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,SHIVAMOGGA,Shivamogga,30,3000,4000,3500
-2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,BENGALURU,Bengaluru Urban,506,5000,10000,8000
-2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,BINNY MILL (F&V),Bengaluru Urban,105,6500,7500,7000
-2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,DODDABALLAPUR,Bengaluru Rural,2,8000,12000,10000
-2026-06-04,Green Ginger,Green Ginger [Small],Green Ginger,HUNSUR,Mysuru,60,2000,2000,2000
-2026-06-04,Green Ginger,Green Ginger [Small],Green Ginger,K.R.NAGAR,Mysuru,70,1500,1500,1500
-2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,MYSURU,Mysuru,63,8300,8500,8400
-2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,RAMANAGARA,Ramanagara,7,7400,8600,8000
-2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,TIRTHAHALLI,Shivamogga,903,14069,14069,14069
-2026-06-04,Groundnut,Gejje [Average],Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379
-2026-06-04,Groundnut,Big (With Shell) [Medium],Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500
-2026-06-04,Groundnut,Gejje [Average],Gejje,DAVANAGERE,Davanagere,14,5700,5700,5700
-2026-06-04,Groundnut,Gejje [Medium],Gejje,GADAG,Gadag,35,5269,7559,6824
-2026-06-04,Groundnut,Ground Nut Seed,Ground Nut Seed,GADAG,Gadag,130,9000,9000,9000
-2026-06-04,Groundnut,Gejje [Average],Gejje,HUBBALLI,Dharwad,64,4920,7630,5868
-2026-06-04,Groundnut,Gejje [Small],Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575
-2026-06-04,Groundnut,Ground Nut Seed,Ground Nut Seed,MYSURU,Mysuru,100,10000,10000,10000
-2026-06-04,Groundnut,Gungri (With Shell) [Non FAQ],Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425
-2026-06-04,Groundnut,Gejje [Medium],Gejje,RAMDURGA,Belagavi,340,3081,8620,7536
-2026-06-04,Groundnut,Gejje [Small],Gejje,RONA,Karnataka,5,7269,7899,7633
-2026-06-04,Groundnut,Gejje [Average],Gejje,SAVANUR,Haveri,9,3339,7881,6718
-2026-06-04,Groundnut,Gejje [Average],Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638
-2026-06-04,Groundnut,Big (With Shell) [Large],Big (With Shell),YADGIR,Yadgir,7,7009,7009,7009
-2026-06-04,Jowar,Local [Small],Local,BALLARI,Ballari,58,1856,3609,2256
-2026-06-04,Jowar,Hybrid [Medium],Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300
-2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),BASAVAKALYANA,Bidar,10,1900,2600,2000
-2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),BENGALURU,Bengaluru Urban,30,3200,3800,3500
-2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),CHITTAPURA,Karnataka,100,300,300,300
-2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),GADAG,Gadag,103,1909,4737,3885
-2026-06-04,Jowar,Jowar ( White) [Average],Jowar (White),HUBBALLI,Dharwad,35,1606,5012,3046
-2026-06-04,Jowar,Popcorn,Popcorn,HUNGUND,Karnataka,125,3500,3500,3500
-2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),KALABURAGI,Kalaburagi,60,2100,5100,4200
-2026-06-04,Jowar,Local,Local,KALABURAGI,Kalaburagi,10,1800,2400,2000
-2026-06-04,Jowar,Other [Small],Other,MANVI,Raichur,375,2600,2600,2600
-2026-06-04,Jowar,Jowar ( White) [FAQ],Jowar (White),RAICHUR,Raichur,7,4212,4417,4417
-2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),SAVADATTI,Belagavi,750,2430,2430,2430
-2026-06-04,Jowar,Local,Local,SINDHANUR,Raichur,91,2200,2200,2200
-2026-06-04,Jowar,Jowar ( White) [Average],Jowar (White),VIJAYAPURA,Vijayapura,29,2300,3040,2670
-2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,BAGALKOT,Bagalkot,149,2069,2146,2127
-2026-06-04,Maize,Local [Small],Local,BALLARI,Ballari,35,1459,2202,1978
-2026-06-04,Maize,Hybrid,Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300
-2026-06-04,Maize,Hybrid/Local [Medium],Hybrid/Local,BENGALURU,Bengaluru Urban,142,2300,2500,2400
-2026-06-04,Maize,Local [Average],Local,BHADRAVATHI,Shivamogga,87,2200,2200,2200
-2026-06-04,Maize,Yellow [Average],Yellow,CHALLAKERE,Chitradurga,500,2150,2150,2150
-2026-06-04,Maize,Local [Non FAQ],Local,CHANNAGIRI,Davanagere,723,1600,1600,1600
-2026-06-04,Maize,Jowar ( White),Jowar ( White),CHITTAPURA,Karnataka,100,300,300,300
-2026-06-04,Maize,Local [Average],Local,DAVANAGERE,Davanagere,6503,2019,2200,2065
-2026-06-04,Maize,Local [Medium],Local,DODDABALLAPUR,Bengaluru Rural,354,2150,2150,2150
-2026-06-04,Maize,Local [Medium],Local,GADAG,Gadag,9,1802,2029,1855
-2026-06-04,Maize,Local [Average],Local,GOKAK,Karnataka,104,2300,2300,2300
-2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,GOWRIBIDNUR,Karnataka,252,1900,2100,2000
-2026-06-04,Maize,Hybrid/Local [Large],Hybrid/Local,HAGARI BOMMANA HALLI,Karnataka,402,1950,2000,2000
-2026-06-04,Maize,Local [Medium],Local,HANGAL,Haveri,1723,1950,2140,2140
-2026-06-04,Maize,Local [Small],Local,HANUR,Karnataka,250,2000,2000,2000
-2026-06-04,Maize,Hybrid/Local [FAQ],Hybrid/Local,HARAPANAHALLI,Karnataka,1541,2000,2100,2024
-2026-06-04,Maize,Local [Average],Local,HAVERI,Haveri,48,1850,1850,1850
-2026-06-04,Maize,Yellow [Average],Yellow,HOLALKERE,Karnataka,609,2100,2100,2100
-2026-06-04,Maize,Local [Medium],Local,HONNALI,Davanagere,3064,2000,2350,2077
-2026-06-04,Maize,Local [Medium],Local,HUNGUND,Karnataka,10,2000,2000,2000
-2026-06-04,Maize,Popcorn [Medium],Popcorn,HUNGUND,Karnataka,125,3500,3500,3500
-2026-06-04,Maize,Local [Medium],Local,K.R.NAGAR,Mysuru,1000,1900,1900,1900
-2026-06-04,Maize,Local [Small],Local,KALABURAGI,Kalaburagi,10,1800,2400,2000
-2026-06-04,Maize,Local [Average],Local,KALGHATGI,Karnataka,554,1980,2150,2078
-2026-06-04,Maize,Yellow [Small],Yellow,KOPPAL,Koppal,208,2040,2170,2129
-2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,KOTTUR,Ballari,378,1861,1910,1909
-2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,KUDCHI,,96,2200,2250,2220
-2026-06-04,Maize,Local [Medium],Local,KUDLIGI,Ballari,260,2125,2125,2125
-2026-06-04,Maize,Local [Small],Local,MUDHOL,Bagalkot,202,2200,2235,2220
-2026-06-04,Maize,Hybrid/Local [Small],Hybrid/Local,MUNDAGOD,Tumkur,426,2100,2100,2100
-2026-06-04,Maize,Local [Medium],Local,NARGUND,Karnataka,1897,1800,2200,2042
-2026-06-04,Maize,Local [Medium],Local,RAMDURGA,Belagavi,301,2150,2190,2180
-2026-06-04,Maize,Jowar Hybrid,Jowar Hybrid,RANIBENNUR,Haveri,70,2400,2400,2400
-2026-06-04,Maize,Local [Medium],Local,RANIBENNUR,Haveri,3479,1710,2235,1972
-2026-06-04,Maize,Hybrid/Local [Small],Hybrid/Local,SHIGGAON,Haveri,206,2150,2150,2150
-2026-06-04,Maize,Local [Small],Local,SHIKARIPUR,Shivamogga,2130,1980,2200,2098
-2026-06-04,Maize,Local [Average],Local,SHIVAMOGGA,Shivamogga,645,1900,2240,2000
-2026-06-04,Maize,Local [Average],Local,SINDHANUR,Raichur,91,2200,2200,2200
-2026-06-04,Maize,Local [Average],Local,SORABHA,Karnataka,2138,1600,2100,2076
-2026-06-04,Maize,Local [Large],Local,TALIKOTE,Vijayapura,77,1840,1840,1840
-2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,VIJAYAPURA,Vijayapura,1248,2134,2134,2134
-2026-06-04,Mango,Badami,Badami,BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200
-2026-06-04,Mango,Badami [Average],Badami [Average],BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200
-2026-06-04,Mango,Raspuri,Raspuri,BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000
-2026-06-04,Mango,Raspuri [Average],Raspuri [Average],BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000
-2026-06-04,Mango,Sindura,Sindura,BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500
-2026-06-04,Mango,Sindura [Average],Sindura [Average],BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500
-2026-06-04,Mango,Totapuri,Totapuri,BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000
-2026-06-04,Mango,Totapuri [Average],Totapuri [Average],BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000
-2026-06-04,Mango,Mango,Mango,DAVANAGERE,Davanagere,12,3000,10000,6000
-2026-06-04,Mango,Mango [Average],Mango [Average],DAVANAGERE,Davanagere,12,3000,10000,6000
-2026-06-04,Mango,Badami,Badami,GUBBI,Tumkur,580,1500,2500,1500
-2026-06-04,Mango,Badami [Medium],Badami [Medium],GUBBI,Tumkur,580,1500,2500,1500
-2026-06-04,Mango,Nati,Nati,GUBBI,Tumkur,950,500,1200,500
-2026-06-04,Mango,Nati [Medium],Nati [Medium],GUBBI,Tumkur,950,500,1200,500
-2026-06-04,Mango,Sindura,Sindura,GUBBI,Tumkur,400,800,1500,800
-2026-06-04,Mango,Sindura [Medium],Sindura [Medium],GUBBI,Tumkur,400,800,1500,800
-2026-06-04,Mango,Mango [Average],Mango [Average],KALABURAGI,Kalaburagi,26,2000,3400,2700
-2026-06-04,Mango,Mango,Mango,MADHUGIRI,Tumkur,200,500,1000,600
-2026-06-04,Mango,Other [Average],Other [Average],MULBAGAL,Kolar,1100,1000,1500,1200
-2026-06-04,Mango,Other [Average],Other [Average],MYSURU,Mysuru,184,2000,3030,3000
-2026-06-04,Mango,Badami,Badami,SRINIVASPUR,Kolar,600,2000,3000,2200
-2026-06-04,Mango,Badami [Average],Badami [Average],SRINIVASPUR,Kolar,600,2000,3000,2200
-2026-06-04,Mango,Hapus(Alphaso),Hapus(Alphaso),SRINIVASPUR,Kolar,5784,1000,1800,1300
-2026-06-04,Mango,Hapus(Alphaso) [Average],Hapus(Alphaso) [Average],SRINIVASPUR,Kolar,5784,1000,1800,1300
-2026-06-04,Mango,Mango,Mango,SRINIVASPUR,Kolar,610,2000,3000,2100
-2026-06-04,Mango,Mango [Average],Mango [Average],SRINIVASPUR,Kolar,610,2000,3000,2100
-2026-06-04,Mango,Other,Other,SRINIVASPUR,Kolar,2645,1900,2200,2000
-2026-06-04,Mango,Other [Average],Other [Average],SRINIVASPUR,Kolar,2645,1900,2200,2000
-2026-06-04,Mango,Rajgiri,Rajgiri,SRINIVASPUR,Kolar,750,1000,2000,1500
-2026-06-04,Mango,Rajgiri [Average],Rajgiri [Average],SRINIVASPUR,Kolar,750,1000,2000,1500
-2026-06-04,Mango,Raspuri,Raspuri,SRINIVASPUR,Kolar,200,2000,2500,2200
-2026-06-04,Mango,Raspuri [Average],Raspuri [Average],SRINIVASPUR,Kolar,200,2000,2500,2200
-2026-06-04,Onion,Onion [Average],Onion,BANGARPET,Kolar,34,1000,2000,1500
-2026-06-04,Onion,Bangalore Small [Small],Bangalore Small,BENGALURU,Bengaluru Urban,4693,400,1000,800
-2026-06-04,Onion,Local [Medium],Local,BENGALURU,Bengaluru Urban,4693,1000,1400,1100
-2026-06-04,Onion,Onion [Large],Onion,BENGALURU,Bengaluru Urban,4693,1600,2200,1800
-2026-06-04,Onion,Puna [Average],Puna,BENGALURU,Bengaluru Urban,9385,1000,2400,1500
-2026-06-04,Onion,Other [Average],Other,CHIKKAMAGALURU,Chikkamagaluru,111,1500,1700,1652
-2026-06-04,Onion,Onion [Average],Onion,DAVANAGERE,Davanagere,650,500,2000,1300
-2026-06-04,Onion,Onion [Medium],Onion,DODDABALLAPUR,Bengaluru Rural,18,1500,2000,1700
-2026-06-04,Onion,Other [Average],Other,HASSAN,Hassan,887,575,2500,2500
-2026-06-04,Onion,Puna [Average],Puna,HUBBALLI,Dharwad,2150,500,1900,1700
-2026-06-04,Onion,Onion,Onion,JAMKANDI,Karnataka,35,400,1600,1000
-2026-06-04,Onion,Onion [Small],Onion,JAMKANDI,Karnataka,35,400,1600,1000
-2026-06-04,Onion,Other [Average],Other,MYSURU,Mysuru,735,800,1800,1400
-2026-06-04,Onion,Onion [Average],Onion,SHIVAMOGGA,Shivamogga,30,1000,2000,1500
-2026-06-04,Onion,Onion [Average],Onion,UDIPI,Udupi,84,1900,2000,2000
-2026-06-04,Onion,Onion,Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200
-2026-06-04,Onion,Onion [Average],Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200
-2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,BHADRAVATHI,Shivamogga,4048,2200,2200,2200
-2026-06-04,Paddy,Paddy [Average],Paddy,CHALLAKERE,Chitradurga,214,1900,1900,1900
-2026-06-04,Paddy,Paddy [Non FAQ],Paddy,CHANNAGIRI,Davanagere,7893,2500,3060,2618
-2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,DAVANAGERE,Davanagere,22236,1800,3021,2619
-2026-06-04,Paddy,Paddy [Medium],Paddy,DHARWAR,Dharwad,130,2350,2350,2350
-2026-06-04,Paddy,Kaveri sona [Small],Kaveri Sona,GANGAVATI,Koppal,509,2293,2573,2293
-2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,GANGAVATI,Koppal,6882,2587,2880,2760
-2026-06-04,Paddy,Paddy RNR Old [Small],Paddy Rnr Old,GANGAVATI,Koppal,453,3461,3481,3466
-2026-06-04,Paddy,Sona Masuri Old [Small],Sona Masuri Old,GANGAVATI,Koppal,11321,2900,3267,3000
-2026-06-04,Paddy,Sona Mahsuri [Large],Sona Masuri,HAGARI BOMMANA HALLI,Karnataka,608,2130,2500,2500
-2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,HALIYALA,Karnataka,414,2200,2600,2600
-2026-06-04,Paddy,Paddy [Medium],Paddy,HANGAL,Haveri,1505,1900,2650,2600
-2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,HARIHARA,Karnataka,5979,2450,2680,2565
-2026-06-04,Paddy,Paddy,Paddy,HASSAN,Hassan,90,1999,1999,1999
-2026-06-04,Paddy,Paddy [Average],Paddy,HASSAN,Hassan,90,1999,1999,1999
-2026-06-04,Paddy,Paddy Medium Variety [Medium],Paddy Medium Variety,HONNALI,Davanagere,2713,2000,2600,2493
-2026-06-04,Paddy,Paddy Dappa [Medium],Paddy Dappa,K.R.NAGAR,Mysuru,891,2000,2400,2084
-2026-06-04,Paddy,Paddy [Average],Paddy,KAMPLI,Karnataka,7445,2300,2800,2550
-2026-06-04,Paddy,Paddy Sona [Small],Paddy Sona,KANAKAGIRI,Karnataka,338,3066,3066,3066
-2026-06-04,Paddy,Kaveri sona [Average],Kaveri Sona,KARTAGI,Karnataka,643,1800,2200,2021
-2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,KARTAGI,Karnataka,4396,2700,2900,2820
-2026-06-04,Paddy,Paddy RNR Old [Large],Paddy Rnr Old,KARTAGI,Karnataka,4082,2910,3190,3030
-2026-06-04,Paddy,Sona Masuri New [Small],Sona Masuri New,KARTAGI,Karnataka,5847,2340,2500,2350
-2026-06-04,Paddy,Paddy Medium Variety [Small],Paddy Medium Variety,KOLLEGAL,Karnataka,300,2000,2000,2000
-2026-06-04,Paddy,Paddy,Paddy,KOPPAL,Koppal,354,1800,3100,2450
-2026-06-04,Paddy,Paddy [Small],Paddy,KOPPAL,Koppal,354,1800,3100,2450
-2026-06-04,Paddy,Paddy [Average],Paddy,MADDUR,Mandya,363,2370,2600,2370
-2026-06-04,Paddy,Paddy [Medium],Paddy,MALAVALLI,Mandya,100,2400,2400,2400
-2026-06-04,Paddy,Sona Masuri New [Small],Sona Masuri New,MANVI,Raichur,1828,2970,3260,3088
-2026-06-04,Paddy,Paddy [Average],Paddy,MYSURU,Mysuru,50,2200,2200,2200
-2026-06-04,Paddy,Paddy [FAQ],Paddy,MYSURU,Mysuru,50,2200,2200,2200
-2026-06-04,Paddy,Paddy [Non FAQ],Paddy,MYSURU,Mysuru,93,2200,2200,2200
-2026-06-04,Paddy,Paddy [Large],Paddy,NANDAGAD,Karnataka,160,2500,2500,2500
-2026-06-04,Paddy,Paddy Dappa [Average],Paddy Dappa,PANDAVAPURA,Mandya,651,2000,2400,2200
-2026-06-04,Paddy,Sona Mahsuri [FAQ],Sona Masuri,RAICHUR,Raichur,341,2252,2813,2670
-2026-06-04,Paddy,Paddy [Medium],Paddy,RANIBENNUR,Haveri,752,2520,2580,2550
-2026-06-04,Paddy,Paddy [Small],Paddy,SHIKARIPUR,Shivamogga,4482,2450,2900,2529
-2026-06-04,Paddy,Paddy RNR New [Average],Paddy Rnr New,SINDHANUR,Raichur,26204,2000,2687,2680
-2026-06-04,Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SINDHANUR,Raichur,16389,2690,3410,2900
-2026-06-04,Paddy,Kaveri sona [Average],Kaveri Sona,SIRAGUPPA,Ballari,19091,1750,2300,2200
-2026-06-04,Paddy,Paddy RNR New [Average],Paddy Rnr New,SIRAGUPPA,Ballari,6382,2350,2600,2520
-2026-06-04,Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SIRAGUPPA,Ballari,6427,2794,3100,2900
-2026-06-04,Paddy,Paddy [Average],Paddy,SORABHA,Karnataka,407,2500,2880,2769
-2026-06-04,Paddy,Jaya [Average],Jaya,SRIRANGAPATNA,Mandya,778,1875,2800,2400
-2026-06-04,Paddy,Paddy [Small],Paddy,T.NARSIPUR,Mysuru,2197,2000,2800,2100
-2026-06-04,Paddy,I.R. 64 [Average],I.R. 64,TIRTHAHALLI,Shivamogga,75,2600,2600,2600
-2026-06-04,Ragi,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,231,4800,5200,5000
-2026-06-04,Ragi,Local [Average],Local,C.R.NAGAR,Mysuru,1,4500,4500,4500
-2026-06-04,Ragi,Local [Average],Local,CHINTAMANI,Chickballapur,340,3000,3300,3200
-2026-06-04,Ragi,Local [Average],Local,DAVANAGERE,Davanagere,1081,2800,3339,3210
-2026-06-04,Ragi,Local [Average],Local,GUNDLUPET,Tumkur,385,3100,3120,3100
-2026-06-04,Ragi,Local [Average],Local,HARAPANAHALLI,Karnataka,1148,3100,3350,3190
-2026-06-04,Ragi,Other [Average],Other,HASSAN,Hassan,165,4000,4000,4000
-2026-06-04,Ragi,Coarse,Coarse,HAVERI,Haveri,235,2070,2070,2070
-2026-06-04,Ragi,Local [Medium],Local,HONNALI,Davanagere,197,3080,3080,3080
-2026-06-04,Ragi,Local [Average],Local,KALGHATGI,Karnataka,159,2900,2900,2900
-2026-06-04,Ragi,Hybrid [Average],Hybrid,KOTTUR,Ballari,5,3109,3121,3112
-2026-06-04,Ragi,Local [Medium],Local,KUDLIGI,Ballari,860,2150,3400,2833
-2026-06-04,Ragi,Local [Average],Local,MYSURU,Mysuru,50,3100,3335,3100
-2026-06-04,Ragi,Local [FAQ],Local,MYSURU,Mysuru,50,3100,3335,3100
-2026-06-04,Ragi,Local [Non FAQ],Local,MYSURU,Mysuru,53,3100,3335,3100
-2026-06-04,Ragi,Local [Medium],Local,NAGAMANGALA,Mandya,376,3600,4400,4400
-2026-06-04,Ragi,Local [Average],Local,PERIYAPATNA,Mysuru,203,3000,3300,3200
-2026-06-04,Ragi,Medium,Medium,RANIBENNUR,Haveri,86,2150,2150,2150
-2026-06-04,Rice,Other [Average],Other,BANTWALA,Dakshina Kannada,140,2000,2800,2600
-2026-06-04,Rice,Dappa [Medium],Dappa,BENGALURU,Bengaluru Urban,13316,3800,4300,4050
-2026-06-04,Rice,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,17755,6000,6600,6300
-2026-06-04,Rice,Medium [Medium],Medium,BENGALURU,Bengaluru Urban,13316,5300,6000,5650
-2026-06-04,Rice,Medium [Average],Medium,BHADRAVATHI,Shivamogga,349,2350,2500,2500
-2026-06-04,Rice,CR 1009 (Coarse) Boiled [Small],Cr 1009 (Coarse) Boiled,BIDAR,Bidar,50,4800,5500,5200
-2026-06-04,Rice,Broken Rice [Average],Broken Rice,DAVANAGERE,Davanagere,239,2060,2060,2060
-2026-06-04,Rice,Medium [Average],Medium,DAVANAGERE,Davanagere,1817,2250,4700,3250
-2026-06-04,Rice,Broken Rice [Small],Broken Rice,GANGAVATI,Koppal,504,2240,2240,2240
-2026-06-04,Rice,Other [Small],Other,GANGAVATI,Koppal,4825,2300,2688,2420
-2026-06-04,Rice,Coarse [Large],Coarse,HAVERI,Haveri,235,2070,2070,2070
-2026-06-04,Rice,Broken Rice [Average],Broken Rice,KALABURAGI,Kalaburagi,10,2900,3850,3400
-2026-06-04,Rice,Coarse [Average],Coarse,KALABURAGI,Kalaburagi,10,4000,5200,4700
-2026-06-04,Rice,Fine [Average],Fine,KALABURAGI,Kalaburagi,30,5250,6500,6000
-2026-06-04,Rice,Broken Rice [Average],Broken Rice,KARTAGI,Karnataka,130,2190,2190,2190
-2026-06-04,Rice,Broken Rice [Small],Broken Rice,KOPPAL,Koppal,1500,2230,2300,2265
-2026-06-04,Rice,Fine [Average],Fine,MYSURU,Mysuru,57,3831,3831,3831
-2026-06-04,Rice,Boiled Rice [Small],Boiled Rice,SAKLESHPUR,Hassan,314,2500,2505,2500
-2026-06-04,Rice,Dappa [Average],Dappa,SHIVAMOGGA,Shivamogga,690,2400,2500,2450
-2026-06-04,Rice,Medium [Average],Medium,SINDHANUR,Raichur,831,2500,4700,4500
-2026-06-04,Rice,Fine [Average],Fine,SORABHA,Karnataka,640,1900,2500,2115
-2026-06-04,Silk Cocoon,Gejje,Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379
-2026-06-04,Silk Cocoon,Big (With Shell),Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500
-2026-06-04,Silk Cocoon,Gejje,Gejje,DAVANAGERE,Davanagere,14,5700,5700,5700
-2026-06-04,Silk Cocoon,Gejje,Gejje,GADAG,Gadag,35,5269,7559,6824
-2026-06-04,Silk Cocoon,Gejje,Gejje,HUBBALLI,Dharwad,64,4920,7630,5868
-2026-06-04,Silk Cocoon,Gejje,Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575
-2026-06-04,Silk Cocoon,Gungri (With Shell),Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425
-2026-06-04,Silk Cocoon,Gejje,Gejje,RAMDURGA,Belagavi,340,3081,8620,7536
-2026-06-04,Silk Cocoon,Gejje,Gejje,SAVANUR,Haveri,9,3339,7881,6718
-2026-06-04,Silk Cocoon,Gejje,Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638
-2026-06-04,Sunflower,Sunflower [Average],Sunflower,ATHANI,Belagavi,70,7326,7326,7326
-2026-06-04,Sunflower,Sunflower [Average],Sunflower,BAGALKOT,Bagalkot,24,6800,7629,7380
-2026-06-04,Sunflower,Sunflower [Small],Sunflower,BALLARI,Ballari,1,6569,6569,6569
-2026-06-04,Sunflower,Sunflower [Medium],Sunflower,GADAG,Gadag,34,7082,7082,7082
-2026-06-04,Sunflower,Hybrid [Small],Hybrid,KOPPAL,Koppal,1,6870,6870,6870
-2026-06-04,Sunflower,Sunflower [Medium],Sunflower,NARGUND,Karnataka,1254,7500,7701,7580
-2026-06-04,Sunflower,Sunflower [Medium],Sunflower,RAMDURGA,Belagavi,101,7800,7800,7800
-2026-06-04,Sunflower,Sunflower [Small],Sunflower,SAVADATTI,Belagavi,1056,7550,7700,7600
-2026-06-04,Sunflower,Sunflower [Average],Sunflower,VIJAYAPURA,Vijayapura,24,6883,6883,6883
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.NAGAR,Mysuru,63850,20000,23000,20800
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.PATNA,Hassan,145500,15000,20000,15000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,GUNDLUPET,Tumkur,10000,20000,20000,20000
-2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,HOLENARASIPUR,Tumkur,29500,15000,15000,15000
-2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,HUNSUR,Mysuru,12000,20000,22000,22000
-2026-06-04,Tender Coconut,Tender Coconut [Small],Tender Coconut,K.R.NAGAR,Mysuru,69500,15000,20000,19000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,K.R.PET,Mandya,325000,10000,40000,15000
-2026-06-04,Tender Coconut,Tender Coconut,Tender Coconut,KADUR,Chikkamagaluru,169896,20000,20000,20000
-2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,KADUR,Chikkamagaluru,169896,20000,20000,20000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MADDUR,Mandya,456700,15000,45000,25000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MALAVALLI,Mandya,10000,15000,32000,30000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MANDYA,Mandya,65080,10000,47830,25000
-2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,PANDAVAPURA,Mandya,50000,22000,26000,25000
-2026-06-04,Tomato,Tomato [Small],Tomato,BAGEPALLI,Chickballapur,339,384,3384,2769
-2026-06-04,Tomato,Tomato [Average],Tomato,BANGARPET,Kolar,93,1000,1700,1500
-2026-06-04,Tomato,Hybrid [Medium],Hybrid,BELUR,Hassan,11,3000,3000,3000
-2026-06-04,Tomato,Tomato [Average],Tomato,BINNY MILL (F&V),Bengaluru Urban,418,3200,3500,3400
-2026-06-04,Tomato,Tomato [Average],Tomato,C.R.NAGAR,Mysuru,35,1500,3000,2300
-2026-06-04,Tomato,Tomato [Average],Tomato,CHANNAPATNA,Ramanagara,20,2000,4000,3500
-2026-06-04,Tomato,Tomato [Average],Tomato,CHIKKAMAGALURU,Chikkamagaluru,40,3600,3800,3751
-2026-06-04,Tomato,Tomato [Average],Tomato,CHINTAMANI,Chickballapur,815,330,3000,1466
-2026-06-04,Tomato,Tomato [Average],Tomato,DAVANAGERE,Davanagere,40,1300,3700,2800
-2026-06-04,Tomato,Tomato [Medium],Tomato,DODDABALLAPUR,Bengaluru Rural,14,2500,3500,3000
-2026-06-04,Tomato,Tomato [Average],Tomato,GOWRIBIDNUR,Karnataka,12,2000,4000,3000
-2026-06-04,Tomato,Tomato [Average],Tomato,GUNDLUPET,Tumkur,10,3300,3300,3300
-2026-06-04,Tomato,Tomato [Medium],Tomato,KADUR,Chikkamagaluru,20,2500,2500,2500
-2026-06-04,Tomato,Tomato [Average],Tomato,KALABURAGI,Kalaburagi,80,2000,4000,3000
-2026-06-04,Tomato,Hybrid [Medium],Hybrid,KANAKAPURA,Ramanagara,5,3000,4000,3500
-2026-06-04,Tomato,Tomato [Average],Tomato,KOLAR,Kolar,10580,400,3530,2130
-2026-06-04,Tomato,Tomato [Average],Tomato,MULBAGAL,Kolar,3142,400,3000,1666
-2026-06-04,Tomato,Tomato [Medium],Tomato,MYSURU,Mysuru,196,3300,3500,3400
-2026-06-04,Tomato,Tomato [Average],Tomato,NANJANGUD,Mysuru,36,3030,5555,3703
-2026-06-04,Tomato,Tomato [Average],Tomato,RAMANAGARA,Ramanagara,44,3000,4000,3500
-2026-06-04,Tomato,Tomato [Medium],Tomato,RANIBENNUR,Haveri,4,1000,3000,2500
-2026-06-04,Tomato,Tomato [Average],Tomato,SHIVAMOGGA,Shivamogga,500,1600,3200,2100
-2026-06-04,Tomato,Tomato,Tomato,YARAHALLI,Tumkur,5,1660,1660,1660
-2026-06-04,Tomato,Tomato [Small],Tomato,YARAHALLI,Tumkur,5,1660,1660,1660
-2026-06-04,Tur,Tur [Small],Tur,AURAD,Karnataka,13,7461,7541,7541
-2026-06-04,Tur,Tur [Average],Tur,BAGALKOT,Bagalkot,325,6500,7800,6997
-2026-06-04,Tur,Tur [Small],Tur,BALLARI,Ballari,2,4679,4679,4679
-2026-06-04,Tur,Tur [Medium],Tur,BASAVAKALYANA,Bidar,66,4000,7541,7300
-2026-06-04,Tur,Tur [Small],Tur,BHALKI,Karnataka,108,6500,7801,7508
-2026-06-04,Tur,Red [Small],Red,BIDAR,Bidar,1901,5888,7908,7436
-2026-06-04,Tur,Tur [Small],Tur,CHINCOLI,Karnataka,791,7600,7800,7700
-2026-06-04,Tur,White [Small],White,CHITTAPURA,Karnataka,843,6800,7600,7500
-2026-06-04,Tur,Tur [Medium],Tur,GADAG,Gadag,6,3212,4477,4227
-2026-06-04,Tur,Tur [Average],Tur,HUBBALLI,Dharwad,3,4036,6029,5697
-2026-06-04,Tur,Tur [Average],Tur,KALABURAGI,Kalaburagi,600,6000,8000,7500
-2026-06-04,Tur,Red [Medium],Red,KUSTAGI,Karnataka,295,7600,7600,7600
-2026-06-04,Tur,Tur [Small],Tur,LAXMESHWAR,Gadag,1,5160,5160,5160
-2026-06-04,Tur,Tur [Small],Tur,LINGASARGUR,Karnataka,437,7550,8000,7600
-2026-06-04,Tur,Red [Non FAQ],Red,RAICHUR,Raichur,276,6179,7790,7460
-2026-06-04,Tur,Tur [Small],Tur,SEDAM,Karnataka,996,6001,7700,7415
-2026-06-04,Tur,Tur [Large],Tur,TALIKOTE,Vijayapura,1385,6500,7701,7264
-2026-06-04,Tur,Tur [Average],Tur,VIJAYAPURA,Vijayapura,471,7261,7565,7500
-2026-06-04,Tur,Red [Large],Red,YADGIR,Yadgir,213,5011,7999,7303
+date,crop,variety_raw,grade,mandi,district,arrivals_quintal,min_price,max_price,modal_price,is_valid,validation_notes
+2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,ARAKALGUD,Hassan,12800,12800,12800,12800,1,
+2026-06-04,Arecanut,Coca,Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300,1,
+2026-06-04,Arecanut,Coca [Average],Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300,1,
+2026-06-04,Arecanut,New Variety [Average],New Variety,BANTWALA,Dakshina Kannada,33,27000,45000,30100,1,
+2026-06-04,Arecanut,New Variety [Average],New Variety,BELTHANGADI,Dakshina Kannada,192,28000,46000,29000,1,
+2026-06-04,Arecanut,Other [Average],Other,BHADRAVATHI,Shivamogga,26,10000,10000,10000,1,
+2026-06-04,Arecanut,Pudi,Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000,1,
+2026-06-04,Arecanut,Pudi [Average],Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000,1,
+2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,BHADRAVATHI,Shivamogga,54,12000,12000,12000,1,
+2026-06-04,Arecanut,Rashi [Non FAQ],Rashi,CHANNAGIRI,Davanagere,409,40000,54100,51480,1,
+2026-06-04,Arecanut,Api,Api,CHITRADURGA,Chitradurga,1,52719,53129,52959,1,
+2026-06-04,Arecanut,Api [Average],Api,CHITRADURGA,Chitradurga,1,52719,53129,52959,1,
+2026-06-04,Arecanut,Bette [Average],Bette,CHITRADURGA,Chitradurga,30,37949,38399,38079,1,
+2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,CHITRADURGA,Chitradurga,50,32209,32610,32400,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,CHITRADURGA,Chitradurga,10,52239,52669,52489,1,
+2026-06-04,Arecanut,Churu,Churu,DAVANAGERE,Davanagere,34,9502,9502,9502,1,
+2026-06-04,Arecanut,Churu [Average],Churu,DAVANAGERE,Davanagere,34,9502,9502,9502,1,
+2026-06-04,Arecanut,Sippegotu,Sippegotu,DAVANAGERE,Davanagere,48,13500,13500,13500,1,
+2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,DAVANAGERE,Davanagere,48,13500,13500,13500,1,
+2026-06-04,Arecanut,Other [Average],Other,HOLALKERE,Karnataka,112,24381,24588,24484,1,
+2026-06-04,Arecanut,EDI [Medium],Edi,HONNALI,Davanagere,113,26800,26800,26800,1,
+2026-06-04,Arecanut,Hale Chali [Average],Hale Chali,HONNAVAR,Uttara Kannada,22,42000,44000,43000,1,
+2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,HONNAVAR,Uttara Kannada,29,37000,39000,38000,1,
+2026-06-04,Arecanut,Coca,Coca,HOSADURGA,Chitradurga,75,1700,1700,1700,1,
+2026-06-04,Arecanut,Coca [Average],Coca,HOSADURGA,Chitradurga,75,1700,1700,1700,1,
+2026-06-04,Arecanut,Podi,Podi,HOSADURGA,Chitradurga,151,9000,9050,9020,1,
+2026-06-04,Arecanut,Podi [Medium],Podi,HOSADURGA,Chitradurga,151,9000,9050,9020,1,
+2026-06-04,Arecanut,Pudi,Pudi,K.R.NAGAR,Mysuru,100,9500,9500,9500,1,
+2026-06-04,Arecanut,Pudi [Small],Pudi,K.R.NAGAR,Mysuru,100,9500,9500,9500,1,
+2026-06-04,Arecanut,Sippegotu,Sippegotu,K.R.NAGAR,Mysuru,106,13000,13000,13000,1,
+2026-06-04,Arecanut,Sippegotu [Small],Sippegotu,K.R.NAGAR,Mysuru,106,13000,13000,13000,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,K.R.PET,Mandya,3,52000,52000,52000,1,
+2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,K.R.PET,Mandya,30,13000,13000,13000,1,
+2026-06-04,Arecanut,Churu,Churu,KADUR,Chikkamagaluru,782,10500,14000,11000,1,
+2026-06-04,Arecanut,Churu [Medium],Churu,KADUR,Chikkamagaluru,782,10500,14000,11000,1,
+2026-06-04,Arecanut,Other,Other,KADUR,Chikkamagaluru,119,6000,24500,24000,0,variety='Other' (KRAMA junk bucket)
+2026-06-04,Arecanut,Other [Medium],Other,KADUR,Chikkamagaluru,119,6000,24500,24000,1,
+2026-06-04,Arecanut,Sippegotu,Sippegotu,KADUR,Chikkamagaluru,227,11000,11000,11000,1,
+2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,KADUR,Chikkamagaluru,227,11000,11000,11000,1,
+2026-06-04,Arecanut,New Variety [Average],New Variety,KARKALA,Udupi,46,30000,47000,42500,1,
+2026-06-04,Arecanut,Old Variety [Average],Old Variety,KARKALA,Udupi,4,35000,55000,42500,1,
+2026-06-04,Arecanut,Gorabalu [Average],Gorabalu,KOPPA,Chikkamagaluru,90,38099,39501,38909,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,KOPPA,Chikkamagaluru,57,46011,53800,50580,1,
+2026-06-04,Arecanut,Chippu [Average],Chippu,KUMTA,Karnataka,11,16301,39109,34759,1,
+2026-06-04,Arecanut,Coca [Average],Coca,KUMTA,Karnataka,7,15999,36596,32649,1,
+2026-06-04,Arecanut,Hale Chali [Average],Hale Chali,KUMTA,Karnataka,21,47698,48398,48139,1,
+2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,KUMTA,Karnataka,65,35689,47699,43549,1,
+2026-06-04,Arecanut,Hosa Chali [Average],Hosa Chali,KUNDAPUR,Karnataka,30,46500,47000,46600,1,
+2026-06-04,Arecanut,Coca [Average],Coca,MANGALURU,Dakshina Kannada,50,25000,33500,29300,1,
+2026-06-04,Arecanut,New Variety [Average],New Variety,MANGALURU,Dakshina Kannada,50,30000,47000,32000,1,
+2026-06-04,Arecanut,Old Variety [Average],Old Variety,MANGALURU,Dakshina Kannada,50,36000,55000,45500,1,
+2026-06-04,Arecanut,Sippegotu [Medium],Sippegotu,PERIYAPATNA,Mysuru,32,12900,12900,12900,1,
+2026-06-04,Arecanut,Coca [Average],Coca,PUTTUR,Dakshina Kannada,324,20000,33500,29000,1,
+2026-06-04,Arecanut,Bilegotu,Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299,1,
+2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299,1,
+2026-06-04,Arecanut,Chali,Chali,SAGAR,Shivamogga,179,34099,42009,41599,1,
+2026-06-04,Arecanut,Chali [Average],Chali,SAGAR,Shivamogga,179,34099,42009,41599,1,
+2026-06-04,Arecanut,Coca,Coca,SAGAR,Shivamogga,113,14099,36800,32500,1,
+2026-06-04,Arecanut,Coca [Average],Coca,SAGAR,Shivamogga,113,14099,36800,32500,1,
+2026-06-04,Arecanut,Kempugotu,Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699,1,
+2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699,1,
+2026-06-04,Arecanut,Rashi,Rashi,SAGAR,Shivamogga,215,36170,60670,52899,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,SAGAR,Shivamogga,215,36170,60670,52899,1,
+2026-06-04,Arecanut,Sippegotu,Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699,1,
+2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699,1,
+2026-06-04,Arecanut,Rashi [Small],Rashi,SHIKARIPUR,Shivamogga,11,50793,50793,50793,1,
+2026-06-04,Arecanut,Bette [Average],Bette,SHIVAMOGGA,Shivamogga,13,52069,62499,62059,1,
+2026-06-04,Arecanut,Gorabalu [Average],Gorabalu,SHIVAMOGGA,Shivamogga,504,30009,43000,40059,1,
+2026-06-04,Arecanut,Other [Average],Other,SHIVAMOGGA,Shivamogga,4,50211,50211,50211,0,; audit: Other/Standard above commodity median
+2026-06-04,Arecanut,Rashi [Average],Rashi,SHIVAMOGGA,Shivamogga,1006,47669,54199,52769,1,
+2026-06-04,Arecanut,Saraku [Average],Saraku,SHIVAMOGGA,Shivamogga,10,61699,97999,80099,1,
+2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SIDDAPURA,Karnataka,21,26079,35299,32309,1,
+2026-06-04,Arecanut,Chali [Average],Chali,SIDDAPURA,Karnataka,115,39099,48039,47339,1,
+2026-06-04,Arecanut,Coca [Average],Coca,SIDDAPURA,Karnataka,16,23919,33699,27699,1,
+2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SIDDAPURA,Karnataka,3,34000,35800,35500,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,SIDDAPURA,Karnataka,21,47639,52899,51899,1,
+2026-06-04,Arecanut,Tattibettee [Average],Tattibettee,SIDDAPURA,Karnataka,5,37619,45269,42289,1,
+2026-06-04,Arecanut,Bette [Average],Bette,SIRSI,Tumkur,13,42699,49909,45095,1,
+2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,SIRSI,Tumkur,98,25099,36698,32777,1,
+2026-06-04,Arecanut,Chali [Average],Chali,SIRSI,Tumkur,411,44099,49019,47617,1,
+2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,SIRSI,Tumkur,3,27509,41699,32818,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,SIRSI,Tumkur,55,50000,54559,51837,1,
+2026-06-04,Arecanut,Coca [Average],Coca,SULYA,Dakshina Kannada,864,20000,33000,28000,1,
+2026-06-04,Arecanut,New Variety [Average],New Variety,SULYA,Dakshina Kannada,57,44000,45500,45000,1,
+2026-06-04,Arecanut,Bilegotu,Bilegotu,TARIKERE,Chikkamagaluru,7,10000,10000,10000,1,
+2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,TARIKERE,Chikkamagaluru,7,10000,10000,10000,1,
+2026-06-04,Arecanut,Other [Average],Other,TARIKERE,Chikkamagaluru,408,25000,25000,25000,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,TIRTHAHALLI,Shivamogga,20,49000,50072,49000,1,
+2026-06-04,Arecanut,Sippegotu [Average],Sippegotu,TIRTHAHALLI,Shivamogga,78,13100,14000,13700,1,
+2026-06-04,Arecanut,Api [Average],Api,YELLAPURA,Uttara Kannada,2,60299,60299,60299,1,
+2026-06-04,Arecanut,Bilegotu [Average],Bilegotu,YELLAPURA,Uttara Kannada,19,17109,35600,32899,1,
+2026-06-04,Arecanut,Chali [Average],Chali,YELLAPURA,Uttara Kannada,143,38199,48700,47199,1,
+2026-06-04,Arecanut,Coca [Average],Coca,YELLAPURA,Uttara Kannada,42,16000,32899,29299,1,
+2026-06-04,Arecanut,Kempugotu [Average],Kempugotu,YELLAPURA,Uttara Kannada,10,17099,36799,32917,1,
+2026-06-04,Arecanut,Rashi [Average],Rashi,YELLAPURA,Uttara Kannada,76,51009,57119,53499,1,
+2026-06-04,Arecanut,Tattibettee [Average],Tattibettee,YELLAPURA,Uttara Kannada,20,38701,48119,46289,1,
+2026-06-04,Banana,Banana - Green (Balekai),Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100,0,
+2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,BINNY MILL (F&V),Bengaluru Urban,571,1000,4500,2750,1,
+2026-06-04,Banana,Nauti Bale [Average],Nauti Bale,BINNY MILL (F&V),Bengaluru Urban,25,700,2200,1450,1,
+2026-06-04,Banana,Nendra Bale [Average],Nendra Bale,BINNY MILL (F&V),Bengaluru Urban,69,1000,2500,1750,1,
+2026-06-04,Banana,Pachha Bale [Average],Pachha Bale,BINNY MILL (F&V),Bengaluru Urban,345,600,2600,1600,1,
+2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,CHANNAPATNA,Ramanagara,50,1700,4800,4000,1,
+2026-06-04,Banana,Elakki Bale [Average],Elakki Bale,DAVANAGERE,Davanagere,50,2400,4700,3800,1,
+2026-06-04,Banana,Pachha Bale [Average],Pachha Bale,DAVANAGERE,Davanagere,35,1000,2500,1800,1,
+2026-06-04,Banana,Banana - Green (Balekai),Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000,0,
+2026-06-04,Banana,Medium [Average],Medium,UDIPI,Udupi,45,1500,3500,1800,1,
+2026-06-04,Banana Green,Banana - Green (Balekai) [Average],Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100,1,
+2026-06-04,Banana Green,Banana - Green (Balekai) [Medium],Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000,0,
+2026-06-04,Black Pepper,Other,Other,SAGAR,Shivamogga,2,63899,65099,64709,0,variety='Other' (KRAMA junk bucket)
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,BANTWALA,Dakshina Kannada,64,17000,27000,26300,0,
+2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,BANTWALA,Dakshina Kannada,33,27000,45000,30100,0,
+2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,BELTHANGADI,Dakshina Kannada,192,28000,46000,29000,0,
+2026-06-04,COMMODITY: Arecanut,Other [Average],Other,BHADRAVATHI,Shivamogga,26,10000,10000,10000,0,
+2026-06-04,COMMODITY: Arecanut,Pudi [Average],Pudi,BHADRAVATHI,Shivamogga,7,20000,20000,20000,0,
+2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,BHADRAVATHI,Shivamogga,54,12000,12000,12000,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Non FAQ],Rashi,CHANNAGIRI,Davanagere,409,40000,54100,51480,0,
+2026-06-04,COMMODITY: Arecanut,Api [Average],Api,CHITRADURGA,Chitradurga,1,52719,53129,52959,0,
+2026-06-04,COMMODITY: Arecanut,Bette [Average],Bette,CHITRADURGA,Chitradurga,30,37949,38399,38079,0,
+2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,CHITRADURGA,Chitradurga,50,32209,32610,32400,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,CHITRADURGA,Chitradurga,10,52239,52669,52489,0,
+2026-06-04,COMMODITY: Arecanut,EDI [Medium],Edi,HONNALI,Davanagere,113,26800,26800,26800,0,
+2026-06-04,COMMODITY: Arecanut,Hale Chali [Average],Hale Chali,HONNAVAR,Uttara Kannada,22,42000,44000,43000,0,
+2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,HONNAVAR,Uttara Kannada,29,37000,39000,38000,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,HOSADURGA,Chitradurga,75,1700,1700,1700,0,
+2026-06-04,COMMODITY: Arecanut,Podi [Medium],Podi,HOSADURGA,Chitradurga,151,9000,9050,9020,0,
+2026-06-04,COMMODITY: Arecanut,Chippu [Average],Chippu,KUMTA,Karnataka,11,16301,39109,34759,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,KUMTA,Karnataka,7,15999,36596,32649,0,
+2026-06-04,COMMODITY: Arecanut,Hale Chali [Average],Hale Chali,KUMTA,Karnataka,21,47698,48398,48139,0,
+2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,KUMTA,Karnataka,65,35689,47699,43549,0,
+2026-06-04,COMMODITY: Arecanut,Hosa Chali [Average],Hosa Chali,KUNDAPUR,Karnataka,30,46500,47000,46600,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,MANGALURU,Dakshina Kannada,50,25000,33500,29300,0,
+2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,MANGALURU,Dakshina Kannada,50,30000,47000,32000,0,
+2026-06-04,COMMODITY: Arecanut,Old Variety [Average],Old Variety,MANGALURU,Dakshina Kannada,50,36000,55000,45500,0,
+2026-06-04,COMMODITY: Arecanut,Sippegotu [Medium],Sippegotu,PERIYAPATNA,Mysuru,32,12900,12900,12900,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,PUTTUR,Dakshina Kannada,324,20000,33500,29000,0,
+2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SAGAR,Shivamogga,86,12099,36001,31299,0,
+2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SAGAR,Shivamogga,179,34099,42009,41599,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SAGAR,Shivamogga,113,14099,36800,32500,0,
+2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SAGAR,Shivamogga,7,31599,39519,36699,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SAGAR,Shivamogga,215,36170,60670,52899,0,
+2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,SAGAR,Shivamogga,26,7469,22099,21699,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Small],Rashi,SHIKARIPUR,Shivamogga,11,50793,50793,50793,0,
+2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SIDDAPURA,Karnataka,21,26079,35299,32309,0,
+2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SIDDAPURA,Karnataka,115,39099,48039,47339,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SIDDAPURA,Karnataka,16,23919,33699,27699,0,
+2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SIDDAPURA,Karnataka,3,34000,35800,35500,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SIDDAPURA,Karnataka,21,47639,52899,51899,0,
+2026-06-04,COMMODITY: Arecanut,Tattibettee [Average],Tattibettee,SIDDAPURA,Karnataka,5,37619,45269,42289,0,
+2026-06-04,COMMODITY: Arecanut,Bette [Average],Bette,SIRSI,Tumkur,13,42699,49909,45095,0,
+2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,SIRSI,Tumkur,98,25099,36698,32777,0,
+2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,SIRSI,Tumkur,411,44099,49019,47617,0,
+2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,SIRSI,Tumkur,3,27509,41699,32818,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,SIRSI,Tumkur,55,50000,54559,51837,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,SULYA,Dakshina Kannada,864,20000,33000,28000,0,
+2026-06-04,COMMODITY: Arecanut,New Variety [Average],New Variety,SULYA,Dakshina Kannada,57,44000,45500,45000,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,TIRTHAHALLI,Shivamogga,20,49000,50072,49000,0,
+2026-06-04,COMMODITY: Arecanut,Sippegotu [Average],Sippegotu,TIRTHAHALLI,Shivamogga,78,13100,14000,13700,0,
+2026-06-04,COMMODITY: Arecanut,Api [Average],Api,YELLAPURA,Uttara Kannada,2,60299,60299,60299,0,
+2026-06-04,COMMODITY: Arecanut,Bilegotu [Average],Bilegotu,YELLAPURA,Uttara Kannada,19,17109,35600,32899,0,
+2026-06-04,COMMODITY: Arecanut,Chali [Average],Chali,YELLAPURA,Uttara Kannada,143,38199,48700,47199,0,
+2026-06-04,COMMODITY: Arecanut,Coca [Average],Coca,YELLAPURA,Uttara Kannada,42,16000,32899,29299,0,
+2026-06-04,COMMODITY: Arecanut,Kempugotu [Average],Kempugotu,YELLAPURA,Uttara Kannada,10,17099,36799,32917,0,
+2026-06-04,COMMODITY: Arecanut,Rashi [Average],Rashi,YELLAPURA,Uttara Kannada,76,51009,57119,53499,0,
+2026-06-04,COMMODITY: Arecanut,Tattibettee [Average],Tattibettee,YELLAPURA,Uttara Kannada,20,38701,48119,46289,0,
+2026-06-04,COMMODITY: Banana,Elakki Bale [Average],Elakki Bale,BINNY MILL (F&V),Bengaluru Urban,571,1000,4500,2750,0,
+2026-06-04,COMMODITY: Banana,Nauti Bale [Average],Nauti Bale,BINNY MILL (F&V),Bengaluru Urban,25,700,2200,1450,0,
+2026-06-04,COMMODITY: Banana,Nendra Bale [Average],Nendra Bale,BINNY MILL (F&V),Bengaluru Urban,69,1000,2500,1750,0,
+2026-06-04,COMMODITY: Banana,Pachha Bale [Average],Pachha Bale,BINNY MILL (F&V),Bengaluru Urban,345,600,2600,1600,0,
+2026-06-04,COMMODITY: Banana,Elakki Bale [Average],Elakki Bale,CHANNAPATNA,Ramanagara,50,1700,4800,4000,0,
+2026-06-04,COMMODITY: Banana,Medium [Average],Medium,UDIPI,Udupi,45,1500,3500,1800,0,
+2026-06-04,COMMODITY: Banana Green,Banana - Green (Balekai) [Average],Banana - Green (Balekai),BINNY MILL (F&V),Bengaluru Urban,110,2000,2200,2100,0,
+2026-06-04,COMMODITY: Banana Green,Banana - Green (Balekai) [Medium],Banana - Green (Balekai),DODDABALLAPUR,Bengaluru Rural,5,3500,4500,4000,0,
+2026-06-04,COMMODITY: Copra,Copra [Medium],Copra,ARSIKERE,Hassan,22,29000,29000,29000,0,
+2026-06-04,COMMODITY: Copra,Milling [Medium],Milling,ARSIKERE,Hassan,209,20000,22998,22998,0,
+2026-06-04,COMMODITY: Copra,Other [Medium],Other,ARSIKERE,Hassan,56,9500,10000,9500,0,
+2026-06-04,COMMODITY: Copra,Copra [Average],Copra,TIPTUR,Tumkur,1340,29200,31500,30000,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Small],Green Chilly,BAGEPALLI,Chickballapur,23,2800,3500,3000,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,BANGARPET,Kolar,5,2000,3000,2500,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,BINNY MILL (F&V),Bengaluru Urban,272,3700,4000,3900,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,C.R.NAGAR,Mysuru,15,2500,3000,2750,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHANNAPATNA,Ramanagara,2,3000,3500,3300,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHIKKAMAGALURU,Chikkamagaluru,26,2400,2600,2565,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,CHINTAMANI,Chickballapur,10,2000,3000,2500,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Medium],Green Chilly,DODDABALLAPUR,Bengaluru Rural,3,3500,4500,4000,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,GOWRIBIDNUR,Karnataka,2,3000,4000,3500,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Medium],Green Chilly,HONNALI,Davanagere,20,2500,3000,2800,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,RAMANAGARA,Ramanagara,12,3000,5000,4000,0,
+2026-06-04,COMMODITY: Green Chilly,Green Chilly [Average],Green Chilly,SHIVAMOGGA,Shivamogga,30,3000,4000,3500,0,
+2026-06-04,COMMODITY: Green Ginger,Green Ginger [Medium],Green Ginger,BENGALURU,Bengaluru Urban,506,5000,10000,8000,0,
+2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,BINNY MILL (F&V),Bengaluru Urban,105,6500,7500,7000,0,
+2026-06-04,COMMODITY: Green Ginger,Green Ginger [Medium],Green Ginger,DODDABALLAPUR,Bengaluru Rural,2,8000,12000,10000,0,
+2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,RAMANAGARA,Ramanagara,7,7400,8600,8000,0,
+2026-06-04,COMMODITY: Green Ginger,Green Ginger [Average],Green Ginger,TIRTHAHALLI,Shivamogga,903,14069,14069,14069,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379,0,
+2026-06-04,COMMODITY: Groundnut,Big (With Shell) [Medium],Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Medium],Gejje,GADAG,Gadag,35,5269,7559,6824,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,HUBBALLI,Dharwad,64,4920,7630,5868,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Small],Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575,0,
+2026-06-04,COMMODITY: Groundnut,Gungri (With Shell) [Non FAQ],Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,SAVANUR,Haveri,9,3339,7881,6718,0,
+2026-06-04,COMMODITY: Groundnut,Gejje [Average],Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638,0,
+2026-06-04,COMMODITY: Jowar,Local [Small],Local,BALLARI,Ballari,58,1856,3609,2256,0,
+2026-06-04,COMMODITY: Jowar,Hybrid [Medium],Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),BASAVAKALYANA,Bidar,10,1900,2600,2000,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),BENGALURU,Bengaluru Urban,30,3200,3800,3500,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Medium],Jowar (White),GADAG,Gadag,103,1909,4737,3885,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Average],Jowar (White),HUBBALLI,Dharwad,35,1606,5012,3046,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Small],Jowar (White),KALABURAGI,Kalaburagi,60,2100,5100,4200,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [FAQ],Jowar (White),RAICHUR,Raichur,7,4212,4417,4417,0,
+2026-06-04,COMMODITY: Jowar,Jowar ( White) [Average],Jowar (White),VIJAYAPURA,Vijayapura,29,2300,3040,2670,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,BAGALKOT,Bagalkot,149,2069,2146,2127,0,
+2026-06-04,COMMODITY: Maize,Local [Small],Local,BALLARI,Ballari,35,1459,2202,1978,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Medium],Hybrid/Local,BENGALURU,Bengaluru Urban,142,2300,2500,2400,0,
+2026-06-04,COMMODITY: Maize,Local [Average],Local,BHADRAVATHI,Shivamogga,87,2200,2200,2200,0,
+2026-06-04,COMMODITY: Maize,Yellow [Average],Yellow,CHALLAKERE,Chitradurga,500,2150,2150,2150,0,
+2026-06-04,COMMODITY: Maize,Local [Non FAQ],Local,CHANNAGIRI,Davanagere,723,1600,1600,1600,0,
+2026-06-04,COMMODITY: Maize,Local [Medium],Local,DODDABALLAPUR,Bengaluru Rural,354,2150,2150,2150,0,
+2026-06-04,COMMODITY: Maize,Local [Medium],Local,GADAG,Gadag,9,1802,2029,1855,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Large],Hybrid/Local,HAGARI BOMMANA HALLI,Karnataka,402,1950,2000,2000,0,
+2026-06-04,COMMODITY: Maize,Local [Medium],Local,HANGAL,Haveri,1723,1950,2140,2140,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [FAQ],Hybrid/Local,HARAPANAHALLI,Karnataka,1541,2000,2100,2024,0,
+2026-06-04,COMMODITY: Maize,Local [Average],Local,HAVERI,Haveri,48,1850,1850,1850,0,
+2026-06-04,COMMODITY: Maize,Local [Medium],Local,HONNALI,Davanagere,3064,2000,2350,2077,0,
+2026-06-04,COMMODITY: Maize,Local [Small],Local,KALABURAGI,Kalaburagi,10,1800,2400,2000,0,
+2026-06-04,COMMODITY: Maize,Yellow [Small],Yellow,KOPPAL,Koppal,208,2040,2170,2129,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,KOTTUR,Ballari,378,1861,1910,1909,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,KUDCHI,,96,2200,2250,2220,0,
+2026-06-04,COMMODITY: Maize,Local [Medium],Local,RANIBENNUR,Haveri,3479,1710,2235,1972,0,
+2026-06-04,COMMODITY: Maize,Local [Small],Local,SHIKARIPUR,Shivamogga,2130,1980,2200,2098,0,
+2026-06-04,COMMODITY: Maize,Local [Average],Local,SINDHANUR,Raichur,91,2200,2200,2200,0,
+2026-06-04,COMMODITY: Maize,Local [Large],Local,TALIKOTE,Vijayapura,77,1840,1840,1840,0,
+2026-06-04,COMMODITY: Maize,Hybrid/Local [Average],Hybrid/Local,VIJAYAPURA,Vijayapura,1248,2134,2134,2134,0,
+2026-06-04,COMMODITY: Mango,Badami [Average],Badami [Average],BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200,0,
+2026-06-04,COMMODITY: Mango,Raspuri [Average],Raspuri [Average],BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000,0,
+2026-06-04,COMMODITY: Mango,Sindura [Average],Sindura [Average],BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500,0,
+2026-06-04,COMMODITY: Mango,Totapuri [Average],Totapuri [Average],BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000,0,
+2026-06-04,COMMODITY: Mango,Badami [Average],Badami [Average],SRINIVASPUR,Kolar,600,2000,3000,2200,0,
+2026-06-04,COMMODITY: Mango,Hapus(Alphaso) [Average],Hapus(Alphaso) [Average],SRINIVASPUR,Kolar,5784,1000,1800,1300,0,
+2026-06-04,COMMODITY: Mango,Mango [Average],Mango [Average],SRINIVASPUR,Kolar,610,2000,3000,2100,0,
+2026-06-04,COMMODITY: Mango,Other [Average],Other [Average],SRINIVASPUR,Kolar,2645,1900,2200,2000,0,
+2026-06-04,COMMODITY: Mango,Rajgiri [Average],Rajgiri [Average],SRINIVASPUR,Kolar,750,1000,2000,1500,0,
+2026-06-04,COMMODITY: Mango,Raspuri [Average],Raspuri [Average],SRINIVASPUR,Kolar,200,2000,2500,2200,0,
+2026-06-04,COMMODITY: Onion,Onion [Average],Onion,BANGARPET,Kolar,34,1000,2000,1500,0,
+2026-06-04,COMMODITY: Onion,Bangalore Small [Small],Bangalore Small,BENGALURU,Bengaluru Urban,4693,400,1000,800,0,
+2026-06-04,COMMODITY: Onion,Local [Medium],Local,BENGALURU,Bengaluru Urban,4693,1000,1400,1100,0,
+2026-06-04,COMMODITY: Onion,Onion [Large],Onion,BENGALURU,Bengaluru Urban,4693,1600,2200,1800,0,
+2026-06-04,COMMODITY: Onion,Puna [Average],Puna,BENGALURU,Bengaluru Urban,9385,1000,2400,1500,0,
+2026-06-04,COMMODITY: Onion,Other [Average],Other,CHIKKAMAGALURU,Chikkamagaluru,111,1500,1700,1652,0,; audit: Other/Standard above commodity median
+2026-06-04,COMMODITY: Onion,Onion [Medium],Onion,DODDABALLAPUR,Bengaluru Rural,18,1500,2000,1700,0,
+2026-06-04,COMMODITY: Onion,Puna [Average],Puna,HUBBALLI,Dharwad,2150,500,1900,1700,0,
+2026-06-04,COMMODITY: Onion,Onion [Average],Onion,SHIVAMOGGA,Shivamogga,30,1000,2000,1500,0,
+2026-06-04,COMMODITY: Onion,Onion [Average],Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200,0,
+2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,BHADRAVATHI,Shivamogga,4048,2200,2200,2200,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Average],Paddy,CHALLAKERE,Chitradurga,214,1900,1900,1900,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Non FAQ],Paddy,CHANNAGIRI,Davanagere,7893,2500,3060,2618,0,
+2026-06-04,COMMODITY: Paddy,Kaveri sona [Small],Kaveri Sona,GANGAVATI,Koppal,509,2293,2573,2293,0,
+2026-06-04,COMMODITY: Paddy,Paddy RNR New [Small],Paddy Rnr New,GANGAVATI,Koppal,6882,2587,2880,2760,0,
+2026-06-04,COMMODITY: Paddy,Paddy RNR Old [Small],Paddy Rnr Old,GANGAVATI,Koppal,453,3461,3481,3466,0,
+2026-06-04,COMMODITY: Paddy,Sona Masuri Old [Small],Sona Masuri Old,GANGAVATI,Koppal,11321,2900,3267,3000,0,
+2026-06-04,COMMODITY: Paddy,Sona Mahsuri [Large],Sona Masuri,HAGARI BOMMANA HALLI,Karnataka,608,2130,2500,2500,0,
+2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,HALIYALA,Karnataka,414,2200,2600,2600,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Medium],Paddy,HANGAL,Haveri,1505,1900,2650,2600,0,
+2026-06-04,COMMODITY: Paddy,Paddy RNR New [Small],Paddy Rnr New,HARIHARA,Karnataka,5979,2450,2680,2565,0,
+2026-06-04,COMMODITY: Paddy,Paddy Medium Variety [Medium],Paddy Medium Variety,HONNALI,Davanagere,2713,2000,2600,2493,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Average],Paddy,KAMPLI,Karnataka,7445,2300,2800,2550,0,
+2026-06-04,COMMODITY: Paddy,Sona Mahsuri [FAQ],Sona Masuri,RAICHUR,Raichur,341,2252,2813,2670,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Medium],Paddy,RANIBENNUR,Haveri,752,2520,2580,2550,0,
+2026-06-04,COMMODITY: Paddy,Paddy [Small],Paddy,SHIKARIPUR,Shivamogga,4482,2450,2900,2529,0,
+2026-06-04,COMMODITY: Paddy,Paddy RNR New [Average],Paddy Rnr New,SINDHANUR,Raichur,26204,2000,2687,2680,0,
+2026-06-04,COMMODITY: Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SINDHANUR,Raichur,16389,2690,3410,2900,0,
+2026-06-04,COMMODITY: Paddy,Jaya [Average],Jaya,SRIRANGAPATNA,Mandya,778,1875,2800,2400,0,
+2026-06-04,COMMODITY: Paddy,I.R. 64 [Average],I.R. 64,TIRTHAHALLI,Shivamogga,75,2600,2600,2600,0,
+2026-06-04,COMMODITY: Ragi,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,231,4800,5200,5000,0,
+2026-06-04,COMMODITY: Ragi,Local [Average],Local,C.R.NAGAR,Mysuru,1,4500,4500,4500,0,
+2026-06-04,COMMODITY: Ragi,Local [Average],Local,GUNDLUPET,Tumkur,385,3100,3120,3100,0,
+2026-06-04,COMMODITY: Ragi,Local [Average],Local,HARAPANAHALLI,Karnataka,1148,3100,3350,3190,0,
+2026-06-04,COMMODITY: Ragi,Local [Medium],Local,HONNALI,Davanagere,197,3080,3080,3080,0,
+2026-06-04,COMMODITY: Ragi,Hybrid [Average],Hybrid,KOTTUR,Ballari,5,3109,3121,3112,0,
+2026-06-04,COMMODITY: Ragi,Local [Average],Local,PERIYAPATNA,Mysuru,203,3000,3300,3200,0,
+2026-06-04,COMMODITY: Rice,Other [Average],Other,BANTWALA,Dakshina Kannada,140,2000,2800,2600,0,
+2026-06-04,COMMODITY: Rice,Dappa [Medium],Dappa,BENGALURU,Bengaluru Urban,13316,3800,4300,4050,0,
+2026-06-04,COMMODITY: Rice,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,17755,6000,6600,6300,0,
+2026-06-04,COMMODITY: Rice,Medium [Medium],Medium,BENGALURU,Bengaluru Urban,13316,5300,6000,5650,0,
+2026-06-04,COMMODITY: Rice,Medium [Average],Medium,BHADRAVATHI,Shivamogga,349,2350,2500,2500,0,
+2026-06-04,COMMODITY: Rice,CR 1009 (Coarse) Boiled [Small],Cr 1009 (Coarse) Boiled,BIDAR,Bidar,50,4800,5500,5200,0,
+2026-06-04,COMMODITY: Rice,Broken Rice [Small],Broken Rice,GANGAVATI,Koppal,504,2240,2240,2240,0,
+2026-06-04,COMMODITY: Rice,Other [Small],Other,GANGAVATI,Koppal,4825,2300,2688,2420,0,
+2026-06-04,COMMODITY: Rice,Broken Rice [Average],Broken Rice,KALABURAGI,Kalaburagi,10,2900,3850,3400,0,
+2026-06-04,COMMODITY: Rice,Coarse [Average],Coarse,KALABURAGI,Kalaburagi,10,4000,5200,4700,0,
+2026-06-04,COMMODITY: Rice,Fine [Average],Fine,KALABURAGI,Kalaburagi,30,5250,6500,6000,0,
+2026-06-04,COMMODITY: Rice,Boiled Rice [Small],Boiled Rice,SAKLESHPUR,Hassan,314,2500,2505,2500,0,
+2026-06-04,COMMODITY: Rice,Medium [Average],Medium,SINDHANUR,Raichur,831,2500,4700,4500,0,
+2026-06-04,COMMODITY: Sunflower,Sunflower [Average],Sunflower,BAGALKOT,Bagalkot,24,6800,7629,7380,0,
+2026-06-04,COMMODITY: Sunflower,Sunflower [Small],Sunflower,BALLARI,Ballari,1,6569,6569,6569,0,
+2026-06-04,COMMODITY: Sunflower,Sunflower [Medium],Sunflower,GADAG,Gadag,34,7082,7082,7082,0,
+2026-06-04,COMMODITY: Sunflower,Hybrid [Small],Hybrid,KOPPAL,Koppal,1,6870,6870,6870,0,
+2026-06-04,COMMODITY: Sunflower,Sunflower [Average],Sunflower,VIJAYAPURA,Vijayapura,24,6883,6883,6883,0,
+2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.NAGAR,Mysuru,63850,20000,23000,20800,0,
+2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,GUNDLUPET,Tumkur,10000,20000,20000,20000,0,
+2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,K.R.PET,Mandya,325000,10000,40000,15000,0,
+2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,MANDYA,Mandya,65080,10000,47830,25000,0,
+2026-06-04,COMMODITY: Tender Coconut,Tender Coconut [Average],Tender Coconut,PANDAVAPURA,Mandya,50000,22000,26000,25000,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Small],Tomato,BAGEPALLI,Chickballapur,339,384,3384,2769,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,BANGARPET,Kolar,93,1000,1700,1500,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,BINNY MILL (F&V),Bengaluru Urban,418,3200,3500,3400,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,C.R.NAGAR,Mysuru,35,1500,3000,2300,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHANNAPATNA,Ramanagara,20,2000,4000,3500,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHIKKAMAGALURU,Chikkamagaluru,40,3600,3800,3751,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,CHINTAMANI,Chickballapur,815,330,3000,1466,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Medium],Tomato,DODDABALLAPUR,Bengaluru Rural,14,2500,3500,3000,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,GOWRIBIDNUR,Karnataka,12,2000,4000,3000,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,GUNDLUPET,Tumkur,10,3300,3300,3300,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,NANJANGUD,Mysuru,36,3030,5555,3703,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,RAMANAGARA,Ramanagara,44,3000,4000,3500,0,
+2026-06-04,COMMODITY: Tomato,Tomato [Average],Tomato,SHIVAMOGGA,Shivamogga,500,1600,3200,2100,0,
+2026-06-04,COMMODITY: Tur,Tur [Average],Tur,BAGALKOT,Bagalkot,325,6500,7800,6997,0,
+2026-06-04,COMMODITY: Tur,Tur [Small],Tur,BALLARI,Ballari,2,4679,4679,4679,0,
+2026-06-04,COMMODITY: Tur,Tur [Medium],Tur,BASAVAKALYANA,Bidar,66,4000,7541,7300,0,
+2026-06-04,COMMODITY: Tur,Red [Small],Red,BIDAR,Bidar,1901,5888,7908,7436,0,
+2026-06-04,COMMODITY: Tur,Tur [Small],Tur,CHINCOLI,Karnataka,791,7600,7800,7700,0,
+2026-06-04,COMMODITY: Tur,Tur [Medium],Tur,GADAG,Gadag,6,3212,4477,4227,0,
+2026-06-04,COMMODITY: Tur,Tur [Average],Tur,HUBBALLI,Dharwad,3,4036,6029,5697,0,
+2026-06-04,COMMODITY: Tur,Tur [Average],Tur,KALABURAGI,Kalaburagi,600,6000,8000,7500,0,
+2026-06-04,COMMODITY: Tur,Red [Medium],Red,KUSTAGI,Karnataka,295,7600,7600,7600,0,
+2026-06-04,COMMODITY: Tur,Tur [Small],Tur,LAXMESHWAR,Gadag,1,5160,5160,5160,0,
+2026-06-04,COMMODITY: Tur,Tur [Small],Tur,LINGASARGUR,Karnataka,437,7550,8000,7600,0,
+2026-06-04,COMMODITY: Tur,Red [Non FAQ],Red,RAICHUR,Raichur,276,6179,7790,7460,0,
+2026-06-04,COMMODITY: Tur,Tur [Large],Tur,TALIKOTE,Vijayapura,1385,6500,7701,7264,0,
+2026-06-04,COMMODITY: Tur,Tur [Average],Tur,VIJAYAPURA,Vijayapura,471,7261,7565,7500,0,
+2026-06-04,Chilli,Guntur,Guntur,BENGALURU,Bengaluru Urban,105,20000,26000,23000,1,
+2026-06-04,Chilli,Dabbi,Dabbi,BYADGI,Haveri,191,5009,59000,48288,1,
+2026-06-04,Chilli,Guntur,Guntur,BYADGI,Haveri,295,1409,17589,12659,1,
+2026-06-04,Chilli,Kaddi,Kaddi,BYADGI,Haveri,399,4419,50001,46509,1,
+2026-06-04,Chilli,Byadgi,Byadgi,CHALLAKERE,Chitradurga,32,6300,6300,6300,1,
+2026-06-04,Chilli,Guntur,Guntur,SINDHANUR,Raichur,43,17700,23400,17700,1,
+2026-06-04,Coconut,Medium,Medium,C.R.PATNA,Hassan,10000,20000,20000,20000,1,
+2026-06-04,Coconut,Small,Small,HOSADURGA,Chitradurga,34510,19000,21000,20000,1,
+2026-06-04,Coconut,Coconut,Coconut,HUNSUR,Mysuru,2000,20000,20000,20000,1,
+2026-06-04,Coconut,Coconut,Coconut,KADUR,Chikkamagaluru,23275,22000,24000,22000,1,
+2026-06-04,Coconut,Coconut,Coconut,TARIKERE,Chikkamagaluru,104230,18000,28600,25789,1,
+2026-06-04,Coconut,Medium,Medium,YELLAPURA,Uttara Kannada,42330,23110,24000,24000,1,
+2026-06-04,Copra,Copra [Medium],Copra,ARSIKERE,Hassan,22,29000,29000,29000,1,
+2026-06-04,Copra,Milling,Milling,ARSIKERE,Hassan,209,20000,22998,22998,1,
+2026-06-04,Copra,Milling [Medium],Milling,ARSIKERE,Hassan,209,20000,22998,22998,1,
+2026-06-04,Copra,Other [Medium],Other,ARSIKERE,Hassan,56,9500,10000,9500,1,
+2026-06-04,Copra,Milling,Milling,C.R.PATNA,Hassan,30,17500,17500,17500,1,
+2026-06-04,Copra,Milling [Average],Milling,C.R.PATNA,Hassan,30,17500,17500,17500,1,
+2026-06-04,Copra,Small,Small,GUBBI,Tumkur,125,25000,30000,28000,1,
+2026-06-04,Copra,Small [Medium],Small,GUBBI,Tumkur,125,25000,30000,28000,1,
+2026-06-04,Copra,Milling [Medium],Milling,HULIYAR,Tumkur,29,19000,19363,19042,1,
+2026-06-04,Copra,Small,Small,HULIYAR,Tumkur,120,19000,19250,19000,1,
+2026-06-04,Copra,Small [Medium],Small,HULIYAR,Tumkur,120,19000,19250,19000,1,
+2026-06-04,Copra,Medium,Medium,KADUR,Chikkamagaluru,84,20000,20000,20000,1,
+2026-06-04,Copra,Medium [Medium],Medium,KADUR,Chikkamagaluru,84,20000,20000,20000,1,
+2026-06-04,Copra,Other,Other,KADUR,Chikkamagaluru,102,16000,16000,16000,0,variety='Other' (KRAMA junk bucket)
+2026-06-04,Copra,Other [Medium],Other,KADUR,Chikkamagaluru,102,16000,16000,16000,1,
+2026-06-04,Copra,Medium [Medium],Medium,NAGAMANGALA,Mandya,50,27000,27000,27000,1,
+2026-06-04,Copra,Other,Other,SIRA,Tumkur,17,10000,10000,10000,0,variety='Other' (KRAMA junk bucket)
+2026-06-04,Copra,Copra,Copra,TIPTUR,Tumkur,1340,29200,31500,30000,1,
+2026-06-04,Copra,Copra [Average],Copra,TIPTUR,Tumkur,1340,29200,31500,30000,1,
+2026-06-04,Copra,Copra,Copra,TURUVEKERE,Tumkur,31,30000,30000,30000,1,
+2026-06-04,Copra,Copra [Non FAQ],Copra,TURUVEKERE,Tumkur,31,30000,30000,30000,1,
+2026-06-04,Copra,Other [Non FAQ],Other,TURUVEKERE,Tumkur,114,16000,18000,16000,1,
+2026-06-04,Copra,Small [Non FAQ],Small,TURUVEKERE,Tumkur,100,20000,23000,20000,1,
+2026-06-04,Green Chilly,Green Chilly [Small],Green Chilly,BAGEPALLI,Chickballapur,23,2800,3500,3000,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,BANGARPET,Kolar,5,2000,3000,2500,1,
+2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,BELUR,Hassan,301,1700,1900,1752,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,BINNY MILL (F&V),Bengaluru Urban,272,3700,4000,3900,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,C.R.NAGAR,Mysuru,15,2500,3000,2750,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHANNAPATNA,Ramanagara,2,3000,3500,3300,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHIKKAMAGALURU,Chikkamagaluru,26,2400,2600,2565,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,CHINTAMANI,Chickballapur,10,2000,3000,2500,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,DAVANAGERE,Davanagere,40,1300,3700,2800,1,
+2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,DODDABALLAPUR,Bengaluru Rural,3,3500,4500,4000,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,GOWRIBIDNUR,Karnataka,2,3000,4000,3500,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,HASSAN,Hassan,99,3000,3000,3000,1,
+2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,HONNALI,Davanagere,20,2500,3000,2800,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,KALABURAGI,Kalaburagi,5,1400,2800,2100,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,KOLAR,Kolar,25,2000,3000,2400,1,
+2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,MYSURU,Mysuru,58,2300,2500,2400,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,RAMANAGARA,Ramanagara,12,3000,5000,4000,1,
+2026-06-04,Green Chilly,Green Chilly [Medium],Green Chilly,RANIBENNUR,Haveri,3,1200,3500,2800,1,
+2026-06-04,Green Chilly,Green Chilly [Average],Green Chilly,SHIVAMOGGA,Shivamogga,30,3000,4000,3500,1,
+2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,BENGALURU,Bengaluru Urban,506,5000,10000,8000,1,
+2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,BINNY MILL (F&V),Bengaluru Urban,105,6500,7500,7000,1,
+2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,DODDABALLAPUR,Bengaluru Rural,2,8000,12000,10000,0,audit_market_quality: ratio 6.145x vs cluster median 2000.0 (too_high)
+2026-06-04,Green Ginger,Green Ginger [Small],Green Ginger,HUNSUR,Mysuru,60,2000,2000,2000,1,
+2026-06-04,Green Ginger,Green Ginger [Small],Green Ginger,K.R.NAGAR,Mysuru,70,1500,1500,1500,1,
+2026-06-04,Green Ginger,Green Ginger [Medium],Green Ginger,MYSURU,Mysuru,63,8300,8500,8400,0,audit_market_quality: ratio 4.201x vs cluster median 2000.0 (too_high)
+2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,RAMANAGARA,Ramanagara,7,7400,8600,8000,1,
+2026-06-04,Green Ginger,Green Ginger [Average],Green Ginger,TIRTHAHALLI,Shivamogga,903,14069,14069,14069,1,
+2026-06-04,Groundnut,Gejje [Average],Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379,1,
+2026-06-04,Groundnut,Big (With Shell) [Medium],Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500,1,
+2026-06-04,Groundnut,Gejje [Average],Gejje,DAVANAGERE,Davanagere,14,5700,5700,5700,1,
+2026-06-04,Groundnut,Gejje [Medium],Gejje,GADAG,Gadag,35,5269,7559,6824,1,
+2026-06-04,Groundnut,Ground Nut Seed,Ground Nut Seed,GADAG,Gadag,130,9000,9000,9000,1,
+2026-06-04,Groundnut,Gejje [Average],Gejje,HUBBALLI,Dharwad,64,4920,7630,5868,1,
+2026-06-04,Groundnut,Gejje [Small],Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575,1,
+2026-06-04,Groundnut,Ground Nut Seed,Ground Nut Seed,MYSURU,Mysuru,100,10000,10000,10000,1,
+2026-06-04,Groundnut,Gungri (With Shell) [Non FAQ],Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425,1,
+2026-06-04,Groundnut,Gejje [Medium],Gejje,RAMDURGA,Belagavi,340,3081,8620,7536,1,
+2026-06-04,Groundnut,Gejje [Small],Gejje,RONA,Karnataka,5,7269,7899,7633,1,
+2026-06-04,Groundnut,Gejje [Average],Gejje,SAVANUR,Haveri,9,3339,7881,6718,1,
+2026-06-04,Groundnut,Gejje [Average],Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638,1,
+2026-06-04,Groundnut,Big (With Shell) [Large],Big (With Shell),YADGIR,Yadgir,7,7009,7009,7009,1,
+2026-06-04,Jowar,Local [Small],Local,BALLARI,Ballari,58,1856,3609,2256,1,
+2026-06-04,Jowar,Hybrid [Medium],Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300,1,
+2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),BASAVAKALYANA,Bidar,10,1900,2600,2000,1,
+2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),BENGALURU,Bengaluru Urban,30,3200,3800,3500,1,
+2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),CHITTAPURA,Karnataka,100,300,300,300,1,
+2026-06-04,Jowar,Jowar ( White) [Medium],Jowar (White),GADAG,Gadag,103,1909,4737,3885,1,
+2026-06-04,Jowar,Jowar ( White) [Average],Jowar (White),HUBBALLI,Dharwad,35,1606,5012,3046,1,
+2026-06-04,Jowar,Popcorn,Popcorn,HUNGUND,Karnataka,125,3500,3500,3500,1,
+2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),KALABURAGI,Kalaburagi,60,2100,5100,4200,1,
+2026-06-04,Jowar,Local,Local,KALABURAGI,Kalaburagi,10,1800,2400,2000,1,
+2026-06-04,Jowar,Other [Small],Other,MANVI,Raichur,375,2600,2600,2600,0,; audit: Other/Standard above commodity median
+2026-06-04,Jowar,Jowar ( White) [FAQ],Jowar (White),RAICHUR,Raichur,7,4212,4417,4417,1,
+2026-06-04,Jowar,Jowar ( White) [Small],Jowar (White),SAVADATTI,Belagavi,750,2430,2430,2430,1,
+2026-06-04,Jowar,Local,Local,SINDHANUR,Raichur,91,2200,2200,2200,1,
+2026-06-04,Jowar,Jowar ( White) [Average],Jowar (White),VIJAYAPURA,Vijayapura,29,2300,3040,2670,1,
+2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,BAGALKOT,Bagalkot,149,2069,2146,2127,1,
+2026-06-04,Maize,Local [Small],Local,BALLARI,Ballari,35,1459,2202,1978,1,
+2026-06-04,Maize,Hybrid,Hybrid,BASAVAKALYANA,Bidar,1,2300,2300,2300,1,
+2026-06-04,Maize,Hybrid/Local [Medium],Hybrid/Local,BENGALURU,Bengaluru Urban,142,2300,2500,2400,1,
+2026-06-04,Maize,Local [Average],Local,BHADRAVATHI,Shivamogga,87,2200,2200,2200,1,
+2026-06-04,Maize,Yellow [Average],Yellow,CHALLAKERE,Chitradurga,500,2150,2150,2150,1,
+2026-06-04,Maize,Local [Non FAQ],Local,CHANNAGIRI,Davanagere,723,1600,1600,1600,1,
+2026-06-04,Maize,Jowar ( White),Jowar ( White),CHITTAPURA,Karnataka,100,300,300,300,0,; audit: foreign-cereal contamination
+2026-06-04,Maize,Local [Average],Local,DAVANAGERE,Davanagere,6503,2019,2200,2065,1,
+2026-06-04,Maize,Local [Medium],Local,DODDABALLAPUR,Bengaluru Rural,354,2150,2150,2150,1,
+2026-06-04,Maize,Local [Medium],Local,GADAG,Gadag,9,1802,2029,1855,1,
+2026-06-04,Maize,Local [Average],Local,GOKAK,Karnataka,104,2300,2300,2300,1,
+2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,GOWRIBIDNUR,Karnataka,252,1900,2100,2000,1,
+2026-06-04,Maize,Hybrid/Local [Large],Hybrid/Local,HAGARI BOMMANA HALLI,Karnataka,402,1950,2000,2000,1,
+2026-06-04,Maize,Local [Medium],Local,HANGAL,Haveri,1723,1950,2140,2140,1,
+2026-06-04,Maize,Local [Small],Local,HANUR,Karnataka,250,2000,2000,2000,1,
+2026-06-04,Maize,Hybrid/Local [FAQ],Hybrid/Local,HARAPANAHALLI,Karnataka,1541,2000,2100,2024,1,
+2026-06-04,Maize,Local [Average],Local,HAVERI,Haveri,48,1850,1850,1850,1,
+2026-06-04,Maize,Yellow [Average],Yellow,HOLALKERE,Karnataka,609,2100,2100,2100,1,
+2026-06-04,Maize,Local [Medium],Local,HONNALI,Davanagere,3064,2000,2350,2077,1,
+2026-06-04,Maize,Local [Medium],Local,HUNGUND,Karnataka,10,2000,2000,2000,1,
+2026-06-04,Maize,Popcorn [Medium],Popcorn,HUNGUND,Karnataka,125,3500,3500,3500,1,
+2026-06-04,Maize,Local [Medium],Local,K.R.NAGAR,Mysuru,1000,1900,1900,1900,1,
+2026-06-04,Maize,Local [Small],Local,KALABURAGI,Kalaburagi,10,1800,2400,2000,1,
+2026-06-04,Maize,Local [Average],Local,KALGHATGI,Karnataka,554,1980,2150,2078,1,
+2026-06-04,Maize,Yellow [Small],Yellow,KOPPAL,Koppal,208,2040,2170,2129,1,
+2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,KOTTUR,Ballari,378,1861,1910,1909,1,
+2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,KUDCHI,,96,2200,2250,2220,1,
+2026-06-04,Maize,Local [Medium],Local,KUDLIGI,Ballari,260,2125,2125,2125,1,
+2026-06-04,Maize,Local [Small],Local,MUDHOL,Bagalkot,202,2200,2235,2220,1,
+2026-06-04,Maize,Hybrid/Local [Small],Hybrid/Local,MUNDAGOD,Tumkur,426,2100,2100,2100,1,
+2026-06-04,Maize,Local [Medium],Local,NARGUND,Karnataka,1897,1800,2200,2042,1,
+2026-06-04,Maize,Local [Medium],Local,RAMDURGA,Belagavi,301,2150,2190,2180,1,
+2026-06-04,Maize,Jowar Hybrid,Jowar Hybrid,RANIBENNUR,Haveri,70,2400,2400,2400,0,; audit: foreign-cereal contamination
+2026-06-04,Maize,Local [Medium],Local,RANIBENNUR,Haveri,3479,1710,2235,1972,1,
+2026-06-04,Maize,Hybrid/Local [Small],Hybrid/Local,SHIGGAON,Haveri,206,2150,2150,2150,1,
+2026-06-04,Maize,Local [Small],Local,SHIKARIPUR,Shivamogga,2130,1980,2200,2098,1,
+2026-06-04,Maize,Local [Average],Local,SHIVAMOGGA,Shivamogga,645,1900,2240,2000,1,
+2026-06-04,Maize,Local [Average],Local,SINDHANUR,Raichur,91,2200,2200,2200,1,
+2026-06-04,Maize,Local [Average],Local,SORABHA,Karnataka,2138,1600,2100,2076,1,
+2026-06-04,Maize,Local [Large],Local,TALIKOTE,Vijayapura,77,1840,1840,1840,1,
+2026-06-04,Maize,Hybrid/Local [Average],Hybrid/Local,VIJAYAPURA,Vijayapura,1248,2134,2134,2134,1,
+2026-06-04,Mango,Badami,Badami,BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200,1,
+2026-06-04,Mango,Badami [Average],Badami [Average],BINNY MILL (F&V),Bengaluru Urban,310,800,1400,1200,1,
+2026-06-04,Mango,Raspuri,Raspuri,BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000,1,
+2026-06-04,Mango,Raspuri [Average],Raspuri [Average],BINNY MILL (F&V),Bengaluru Urban,400,2500,3500,3000,1,
+2026-06-04,Mango,Sindura,Sindura,BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500,1,
+2026-06-04,Mango,Sindura [Average],Sindura [Average],BINNY MILL (F&V),Bengaluru Urban,450,2000,3000,2500,1,
+2026-06-04,Mango,Totapuri,Totapuri,BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000,1,
+2026-06-04,Mango,Totapuri [Average],Totapuri [Average],BINNY MILL (F&V),Bengaluru Urban,174,800,1200,1000,1,
+2026-06-04,Mango,Mango,Mango,DAVANAGERE,Davanagere,12,3000,10000,6000,1,
+2026-06-04,Mango,Mango [Average],Mango [Average],DAVANAGERE,Davanagere,12,3000,10000,6000,1,
+2026-06-04,Mango,Badami,Badami,GUBBI,Tumkur,580,1500,2500,1500,1,
+2026-06-04,Mango,Badami [Medium],Badami [Medium],GUBBI,Tumkur,580,1500,2500,1500,1,
+2026-06-04,Mango,Nati,Nati,GUBBI,Tumkur,950,500,1200,500,1,
+2026-06-04,Mango,Nati [Medium],Nati [Medium],GUBBI,Tumkur,950,500,1200,500,1,
+2026-06-04,Mango,Sindura,Sindura,GUBBI,Tumkur,400,800,1500,800,1,
+2026-06-04,Mango,Sindura [Medium],Sindura [Medium],GUBBI,Tumkur,400,800,1500,800,1,
+2026-06-04,Mango,Mango [Average],Mango [Average],KALABURAGI,Kalaburagi,26,2000,3400,2700,1,
+2026-06-04,Mango,Mango,Mango,MADHUGIRI,Tumkur,200,500,1000,600,1,
+2026-06-04,Mango,Other [Average],Other [Average],MULBAGAL,Kolar,1100,1000,1500,1200,1,
+2026-06-04,Mango,Other [Average],Other [Average],MYSURU,Mysuru,184,2000,3030,3000,0,; audit: Other/Standard above commodity median
+2026-06-04,Mango,Badami,Badami,SRINIVASPUR,Kolar,600,2000,3000,2200,1,
+2026-06-04,Mango,Badami [Average],Badami [Average],SRINIVASPUR,Kolar,600,2000,3000,2200,1,
+2026-06-04,Mango,Hapus(Alphaso),Hapus(Alphaso),SRINIVASPUR,Kolar,5784,1000,1800,1300,1,
+2026-06-04,Mango,Hapus(Alphaso) [Average],Hapus(Alphaso) [Average],SRINIVASPUR,Kolar,5784,1000,1800,1300,1,
+2026-06-04,Mango,Mango,Mango,SRINIVASPUR,Kolar,610,2000,3000,2100,1,
+2026-06-04,Mango,Mango [Average],Mango [Average],SRINIVASPUR,Kolar,610,2000,3000,2100,1,
+2026-06-04,Mango,Other,Other,SRINIVASPUR,Kolar,2645,1900,2200,2000,0,variety='Other' (KRAMA junk bucket)
+2026-06-04,Mango,Other [Average],Other [Average],SRINIVASPUR,Kolar,2645,1900,2200,2000,1,
+2026-06-04,Mango,Rajgiri,Rajgiri,SRINIVASPUR,Kolar,750,1000,2000,1500,1,
+2026-06-04,Mango,Rajgiri [Average],Rajgiri [Average],SRINIVASPUR,Kolar,750,1000,2000,1500,1,
+2026-06-04,Mango,Raspuri,Raspuri,SRINIVASPUR,Kolar,200,2000,2500,2200,1,
+2026-06-04,Mango,Raspuri [Average],Raspuri [Average],SRINIVASPUR,Kolar,200,2000,2500,2200,1,
+2026-06-04,Onion,Onion [Average],Onion,BANGARPET,Kolar,34,1000,2000,1500,1,
+2026-06-04,Onion,Bangalore Small [Small],Bangalore Small,BENGALURU,Bengaluru Urban,4693,400,1000,800,1,
+2026-06-04,Onion,Local [Medium],Local,BENGALURU,Bengaluru Urban,4693,1000,1400,1100,1,
+2026-06-04,Onion,Onion [Large],Onion,BENGALURU,Bengaluru Urban,4693,1600,2200,1800,1,
+2026-06-04,Onion,Puna [Average],Puna,BENGALURU,Bengaluru Urban,9385,1000,2400,1500,1,
+2026-06-04,Onion,Other [Average],Other,CHIKKAMAGALURU,Chikkamagaluru,111,1500,1700,1652,0,; audit: Other/Standard above commodity median
+2026-06-04,Onion,Onion [Average],Onion,DAVANAGERE,Davanagere,650,500,2000,1300,1,
+2026-06-04,Onion,Onion [Medium],Onion,DODDABALLAPUR,Bengaluru Rural,18,1500,2000,1700,1,
+2026-06-04,Onion,Other [Average],Other,HASSAN,Hassan,887,575,2500,2500,0,; audit: Other/Standard above commodity median
+2026-06-04,Onion,Puna [Average],Puna,HUBBALLI,Dharwad,2150,500,1900,1700,1,
+2026-06-04,Onion,Onion,Onion,JAMKANDI,Karnataka,35,400,1600,1000,1,
+2026-06-04,Onion,Onion [Small],Onion,JAMKANDI,Karnataka,35,400,1600,1000,1,
+2026-06-04,Onion,Other [Average],Other,MYSURU,Mysuru,735,800,1800,1400,1,
+2026-06-04,Onion,Onion [Average],Onion,SHIVAMOGGA,Shivamogga,30,1000,2000,1500,1,
+2026-06-04,Onion,Onion [Average],Onion,UDIPI,Udupi,84,1900,2000,2000,1,
+2026-06-04,Onion,Onion,Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200,1,
+2026-06-04,Onion,Onion [Average],Onion,VIJAYAPURA,Vijayapura,2105,300,2000,1200,1,
+2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,BHADRAVATHI,Shivamogga,4048,2200,2200,2200,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,CHALLAKERE,Chitradurga,214,1900,1900,1900,1,
+2026-06-04,Paddy,Paddy [Non FAQ],Paddy,CHANNAGIRI,Davanagere,7893,2500,3060,2618,1,
+2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,DAVANAGERE,Davanagere,22236,1800,3021,2619,1,
+2026-06-04,Paddy,Paddy [Medium],Paddy,DHARWAR,Dharwad,130,2350,2350,2350,1,
+2026-06-04,Paddy,Kaveri sona [Small],Kaveri Sona,GANGAVATI,Koppal,509,2293,2573,2293,1,
+2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,GANGAVATI,Koppal,6882,2587,2880,2760,1,
+2026-06-04,Paddy,Paddy RNR Old [Small],Paddy Rnr Old,GANGAVATI,Koppal,453,3461,3481,3466,1,
+2026-06-04,Paddy,Sona Masuri Old [Small],Sona Masuri Old,GANGAVATI,Koppal,11321,2900,3267,3000,1,
+2026-06-04,Paddy,Sona Mahsuri [Large],Sona Masuri,HAGARI BOMMANA HALLI,Karnataka,608,2130,2500,2500,1,
+2026-06-04,Paddy,Paddy Medium Variety [Average],Paddy Medium Variety,HALIYALA,Karnataka,414,2200,2600,2600,1,
+2026-06-04,Paddy,Paddy [Medium],Paddy,HANGAL,Haveri,1505,1900,2650,2600,1,
+2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,HARIHARA,Karnataka,5979,2450,2680,2565,1,
+2026-06-04,Paddy,Paddy,Paddy,HASSAN,Hassan,90,1999,1999,1999,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,HASSAN,Hassan,90,1999,1999,1999,1,
+2026-06-04,Paddy,Paddy Medium Variety [Medium],Paddy Medium Variety,HONNALI,Davanagere,2713,2000,2600,2493,1,
+2026-06-04,Paddy,Paddy Dappa [Medium],Paddy Dappa,K.R.NAGAR,Mysuru,891,2000,2400,2084,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,KAMPLI,Karnataka,7445,2300,2800,2550,1,
+2026-06-04,Paddy,Paddy Sona [Small],Paddy Sona,KANAKAGIRI,Karnataka,338,3066,3066,3066,1,
+2026-06-04,Paddy,Kaveri sona [Average],Kaveri Sona,KARTAGI,Karnataka,643,1800,2200,2021,1,
+2026-06-04,Paddy,Paddy RNR New [Small],Paddy Rnr New,KARTAGI,Karnataka,4396,2700,2900,2820,1,
+2026-06-04,Paddy,Paddy RNR Old [Large],Paddy Rnr Old,KARTAGI,Karnataka,4082,2910,3190,3030,1,
+2026-06-04,Paddy,Sona Masuri New [Small],Sona Masuri New,KARTAGI,Karnataka,5847,2340,2500,2350,1,
+2026-06-04,Paddy,Paddy Medium Variety [Small],Paddy Medium Variety,KOLLEGAL,Karnataka,300,2000,2000,2000,1,
+2026-06-04,Paddy,Paddy,Paddy,KOPPAL,Koppal,354,1800,3100,2450,1,
+2026-06-04,Paddy,Paddy [Small],Paddy,KOPPAL,Koppal,354,1800,3100,2450,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,MADDUR,Mandya,363,2370,2600,2370,1,
+2026-06-04,Paddy,Paddy [Medium],Paddy,MALAVALLI,Mandya,100,2400,2400,2400,1,
+2026-06-04,Paddy,Sona Masuri New [Small],Sona Masuri New,MANVI,Raichur,1828,2970,3260,3088,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,MYSURU,Mysuru,50,2200,2200,2200,1,
+2026-06-04,Paddy,Paddy [FAQ],Paddy,MYSURU,Mysuru,50,2200,2200,2200,1,
+2026-06-04,Paddy,Paddy [Non FAQ],Paddy,MYSURU,Mysuru,93,2200,2200,2200,1,
+2026-06-04,Paddy,Paddy [Large],Paddy,NANDAGAD,Karnataka,160,2500,2500,2500,1,
+2026-06-04,Paddy,Paddy Dappa [Average],Paddy Dappa,PANDAVAPURA,Mandya,651,2000,2400,2200,1,
+2026-06-04,Paddy,Sona Mahsuri [FAQ],Sona Masuri,RAICHUR,Raichur,341,2252,2813,2670,1,
+2026-06-04,Paddy,Paddy [Medium],Paddy,RANIBENNUR,Haveri,752,2520,2580,2550,1,
+2026-06-04,Paddy,Paddy [Small],Paddy,SHIKARIPUR,Shivamogga,4482,2450,2900,2529,1,
+2026-06-04,Paddy,Paddy RNR New [Average],Paddy Rnr New,SINDHANUR,Raichur,26204,2000,2687,2680,1,
+2026-06-04,Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SINDHANUR,Raichur,16389,2690,3410,2900,1,
+2026-06-04,Paddy,Kaveri sona [Average],Kaveri Sona,SIRAGUPPA,Ballari,19091,1750,2300,2200,1,
+2026-06-04,Paddy,Paddy RNR New [Average],Paddy Rnr New,SIRAGUPPA,Ballari,6382,2350,2600,2520,1,
+2026-06-04,Paddy,Paddy RNR Old [Average],Paddy Rnr Old,SIRAGUPPA,Ballari,6427,2794,3100,2900,1,
+2026-06-04,Paddy,Paddy [Average],Paddy,SORABHA,Karnataka,407,2500,2880,2769,1,
+2026-06-04,Paddy,Jaya [Average],Jaya,SRIRANGAPATNA,Mandya,778,1875,2800,2400,1,
+2026-06-04,Paddy,Paddy [Small],Paddy,T.NARSIPUR,Mysuru,2197,2000,2800,2100,1,
+2026-06-04,Paddy,I.R. 64 [Average],I.R. 64,TIRTHAHALLI,Shivamogga,75,2600,2600,2600,1,
+2026-06-04,Ragi,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,231,4800,5200,5000,1,
+2026-06-04,Ragi,Local [Average],Local,C.R.NAGAR,Mysuru,1,4500,4500,4500,1,
+2026-06-04,Ragi,Local [Average],Local,CHINTAMANI,Chickballapur,340,3000,3300,3200,1,
+2026-06-04,Ragi,Local [Average],Local,DAVANAGERE,Davanagere,1081,2800,3339,3210,1,
+2026-06-04,Ragi,Local [Average],Local,GUNDLUPET,Tumkur,385,3100,3120,3100,1,
+2026-06-04,Ragi,Local [Average],Local,HARAPANAHALLI,Karnataka,1148,3100,3350,3190,1,
+2026-06-04,Ragi,Other [Average],Other,HASSAN,Hassan,165,4000,4000,4000,0,; audit: Other/Standard above commodity median
+2026-06-04,Ragi,Coarse,Coarse,HAVERI,Haveri,235,2070,2070,2070,1,
+2026-06-04,Ragi,Local [Medium],Local,HONNALI,Davanagere,197,3080,3080,3080,1,
+2026-06-04,Ragi,Local [Average],Local,KALGHATGI,Karnataka,159,2900,2900,2900,1,
+2026-06-04,Ragi,Hybrid [Average],Hybrid,KOTTUR,Ballari,5,3109,3121,3112,1,
+2026-06-04,Ragi,Local [Medium],Local,KUDLIGI,Ballari,860,2150,3400,2833,1,
+2026-06-04,Ragi,Local [Average],Local,MYSURU,Mysuru,50,3100,3335,3100,1,
+2026-06-04,Ragi,Local [FAQ],Local,MYSURU,Mysuru,50,3100,3335,3100,1,
+2026-06-04,Ragi,Local [Non FAQ],Local,MYSURU,Mysuru,53,3100,3335,3100,1,
+2026-06-04,Ragi,Local [Medium],Local,NAGAMANGALA,Mandya,376,3600,4400,4400,1,
+2026-06-04,Ragi,Local [Average],Local,PERIYAPATNA,Mysuru,203,3000,3300,3200,1,
+2026-06-04,Ragi,Medium,Medium,RANIBENNUR,Haveri,86,2150,2150,2150,1,
+2026-06-04,Rice,Other [Average],Other,BANTWALA,Dakshina Kannada,140,2000,2800,2600,1,
+2026-06-04,Rice,Dappa [Medium],Dappa,BENGALURU,Bengaluru Urban,13316,3800,4300,4050,1,
+2026-06-04,Rice,Fine [Medium],Fine,BENGALURU,Bengaluru Urban,17755,6000,6600,6300,1,
+2026-06-04,Rice,Medium [Medium],Medium,BENGALURU,Bengaluru Urban,13316,5300,6000,5650,1,
+2026-06-04,Rice,Medium [Average],Medium,BHADRAVATHI,Shivamogga,349,2350,2500,2500,1,
+2026-06-04,Rice,CR 1009 (Coarse) Boiled [Small],Cr 1009 (Coarse) Boiled,BIDAR,Bidar,50,4800,5500,5200,1,
+2026-06-04,Rice,Broken Rice [Average],Broken Rice,DAVANAGERE,Davanagere,239,2060,2060,2060,1,
+2026-06-04,Rice,Medium [Average],Medium,DAVANAGERE,Davanagere,1817,2250,4700,3250,1,
+2026-06-04,Rice,Broken Rice [Small],Broken Rice,GANGAVATI,Koppal,504,2240,2240,2240,1,
+2026-06-04,Rice,Other [Small],Other,GANGAVATI,Koppal,4825,2300,2688,2420,1,
+2026-06-04,Rice,Coarse [Large],Coarse,HAVERI,Haveri,235,2070,2070,2070,1,
+2026-06-04,Rice,Broken Rice [Average],Broken Rice,KALABURAGI,Kalaburagi,10,2900,3850,3400,1,
+2026-06-04,Rice,Coarse [Average],Coarse,KALABURAGI,Kalaburagi,10,4000,5200,4700,1,
+2026-06-04,Rice,Fine [Average],Fine,KALABURAGI,Kalaburagi,30,5250,6500,6000,1,
+2026-06-04,Rice,Broken Rice [Average],Broken Rice,KARTAGI,Karnataka,130,2190,2190,2190,1,
+2026-06-04,Rice,Broken Rice [Small],Broken Rice,KOPPAL,Koppal,1500,2230,2300,2265,1,
+2026-06-04,Rice,Fine [Average],Fine,MYSURU,Mysuru,57,3831,3831,3831,1,
+2026-06-04,Rice,Boiled Rice [Small],Boiled Rice,SAKLESHPUR,Hassan,314,2500,2505,2500,1,
+2026-06-04,Rice,Dappa [Average],Dappa,SHIVAMOGGA,Shivamogga,690,2400,2500,2450,1,
+2026-06-04,Rice,Medium [Average],Medium,SINDHANUR,Raichur,831,2500,4700,4500,1,
+2026-06-04,Rice,Fine [Average],Fine,SORABHA,Karnataka,640,1900,2500,2115,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,BAGALKOT,Bagalkot,913,4811,8080,7379,1,
+2026-06-04,Silk Cocoon,Big (With Shell),Big (With Shell),BENGALURU,Bengaluru Urban,3,4000,5000,4500,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,DAVANAGERE,Davanagere,14,5700,5700,5700,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,GADAG,Gadag,35,5269,7559,6824,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,HUBBALLI,Dharwad,64,4920,7630,5868,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,LAXMESHWAR,Gadag,5,3898,7291,5575,1,
+2026-06-04,Silk Cocoon,Gungri (With Shell),Gungri (With Shell),RAICHUR,Raichur,170,6019,8162,7425,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,RAMDURGA,Belagavi,340,3081,8620,7536,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,SAVANUR,Haveri,9,3339,7881,6718,1,
+2026-06-04,Silk Cocoon,Gejje,Gejje,VIJAYAPURA,Vijayapura,49,6638,6638,6638,1,
+2026-06-04,Sunflower,Sunflower [Average],Sunflower,ATHANI,Belagavi,70,7326,7326,7326,1,
+2026-06-04,Sunflower,Sunflower [Average],Sunflower,BAGALKOT,Bagalkot,24,6800,7629,7380,1,
+2026-06-04,Sunflower,Sunflower [Small],Sunflower,BALLARI,Ballari,1,6569,6569,6569,1,
+2026-06-04,Sunflower,Sunflower [Medium],Sunflower,GADAG,Gadag,34,7082,7082,7082,1,
+2026-06-04,Sunflower,Hybrid [Small],Hybrid,KOPPAL,Koppal,1,6870,6870,6870,1,
+2026-06-04,Sunflower,Sunflower [Medium],Sunflower,NARGUND,Karnataka,1254,7500,7701,7580,1,
+2026-06-04,Sunflower,Sunflower [Medium],Sunflower,RAMDURGA,Belagavi,101,7800,7800,7800,1,
+2026-06-04,Sunflower,Sunflower [Small],Sunflower,SAVADATTI,Belagavi,1056,7550,7700,7600,1,
+2026-06-04,Sunflower,Sunflower [Average],Sunflower,VIJAYAPURA,Vijayapura,24,6883,6883,6883,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.NAGAR,Mysuru,63850,20000,23000,20800,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,C.R.PATNA,Hassan,145500,15000,20000,15000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,GUNDLUPET,Tumkur,10000,20000,20000,20000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,HOLENARASIPUR,Tumkur,29500,15000,15000,15000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,HUNSUR,Mysuru,12000,20000,22000,22000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Small],Tender Coconut,K.R.NAGAR,Mysuru,69500,15000,20000,19000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,K.R.PET,Mandya,325000,10000,40000,15000,1,
+2026-06-04,Tender Coconut,Tender Coconut,Tender Coconut,KADUR,Chikkamagaluru,169896,20000,20000,20000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Medium],Tender Coconut,KADUR,Chikkamagaluru,169896,20000,20000,20000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MADDUR,Mandya,456700,15000,45000,25000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MALAVALLI,Mandya,10000,15000,32000,30000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,MANDYA,Mandya,65080,10000,47830,25000,1,
+2026-06-04,Tender Coconut,Tender Coconut [Average],Tender Coconut,PANDAVAPURA,Mandya,50000,22000,26000,25000,1,
+2026-06-04,Tomato,Tomato [Small],Tomato,BAGEPALLI,Chickballapur,339,384,3384,2769,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,BANGARPET,Kolar,93,1000,1700,1500,1,
+2026-06-04,Tomato,Hybrid [Medium],Hybrid,BELUR,Hassan,11,3000,3000,3000,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,BINNY MILL (F&V),Bengaluru Urban,418,3200,3500,3400,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,C.R.NAGAR,Mysuru,35,1500,3000,2300,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,CHANNAPATNA,Ramanagara,20,2000,4000,3500,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,CHIKKAMAGALURU,Chikkamagaluru,40,3600,3800,3751,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,CHINTAMANI,Chickballapur,815,330,3000,1466,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,DAVANAGERE,Davanagere,40,1300,3700,2800,1,
+2026-06-04,Tomato,Tomato [Medium],Tomato,DODDABALLAPUR,Bengaluru Rural,14,2500,3500,3000,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,GOWRIBIDNUR,Karnataka,12,2000,4000,3000,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,GUNDLUPET,Tumkur,10,3300,3300,3300,1,
+2026-06-04,Tomato,Tomato [Medium],Tomato,KADUR,Chikkamagaluru,20,2500,2500,2500,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,KALABURAGI,Kalaburagi,80,2000,4000,3000,1,
+2026-06-04,Tomato,Hybrid [Medium],Hybrid,KANAKAPURA,Ramanagara,5,3000,4000,3500,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,KOLAR,Kolar,10580,400,3530,2130,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,MULBAGAL,Kolar,3142,400,3000,1666,1,
+2026-06-04,Tomato,Tomato [Medium],Tomato,MYSURU,Mysuru,196,3300,3500,3400,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,NANJANGUD,Mysuru,36,3030,5555,3703,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,RAMANAGARA,Ramanagara,44,3000,4000,3500,1,
+2026-06-04,Tomato,Tomato [Medium],Tomato,RANIBENNUR,Haveri,4,1000,3000,2500,1,
+2026-06-04,Tomato,Tomato [Average],Tomato,SHIVAMOGGA,Shivamogga,500,1600,3200,2100,1,
+2026-06-04,Tomato,Tomato,Tomato,YARAHALLI,Tumkur,5,1660,1660,1660,1,
+2026-06-04,Tomato,Tomato [Small],Tomato,YARAHALLI,Tumkur,5,1660,1660,1660,1,
+2026-06-04,Tur,Tur [Small],Tur,AURAD,Karnataka,13,7461,7541,7541,1,
+2026-06-04,Tur,Tur [Average],Tur,BAGALKOT,Bagalkot,325,6500,7800,6997,1,
+2026-06-04,Tur,Tur [Small],Tur,BALLARI,Ballari,2,4679,4679,4679,1,
+2026-06-04,Tur,Tur [Medium],Tur,BASAVAKALYANA,Bidar,66,4000,7541,7300,1,
+2026-06-04,Tur,Tur [Small],Tur,BHALKI,Karnataka,108,6500,7801,7508,1,
+2026-06-04,Tur,Red [Small],Red,BIDAR,Bidar,1901,5888,7908,7436,1,
+2026-06-04,Tur,Tur [Small],Tur,CHINCOLI,Karnataka,791,7600,7800,7700,1,
+2026-06-04,Tur,White [Small],White,CHITTAPURA,Karnataka,843,6800,7600,7500,1,
+2026-06-04,Tur,Tur [Medium],Tur,GADAG,Gadag,6,3212,4477,4227,1,
+2026-06-04,Tur,Tur [Average],Tur,HUBBALLI,Dharwad,3,4036,6029,5697,1,
+2026-06-04,Tur,Tur [Average],Tur,KALABURAGI,Kalaburagi,600,6000,8000,7500,1,
+2026-06-04,Tur,Red [Medium],Red,KUSTAGI,Karnataka,295,7600,7600,7600,1,
+2026-06-04,Tur,Tur [Small],Tur,LAXMESHWAR,Gadag,1,5160,5160,5160,1,
+2026-06-04,Tur,Tur [Small],Tur,LINGASARGUR,Karnataka,437,7550,8000,7600,1,
+2026-06-04,Tur,Red [Non FAQ],Red,RAICHUR,Raichur,276,6179,7790,7460,1,
+2026-06-04,Tur,Tur [Small],Tur,SEDAM,Karnataka,996,6001,7700,7415,1,
+2026-06-04,Tur,Tur [Large],Tur,TALIKOTE,Vijayapura,1385,6500,7701,7264,1,
+2026-06-04,Tur,Tur [Average],Tur,VIJAYAPURA,Vijayapura,471,7261,7565,7500,1,
+2026-06-04,Tur,Red [Large],Red,YADGIR,Yadgir,213,5011,7999,7303,1,

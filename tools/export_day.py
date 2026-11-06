@@ -46,6 +46,7 @@ HISTORY_WINDOW_DAYS = 30
 HEADER_RAW = [
     "date", "crop", "variety_raw", "grade", "mandi", "district",
     "arrivals_quintal", "min_price", "max_price", "modal_price",
+    "is_valid", "validation_notes",
 ]
 HEADER_HISTORY = [
     "crop", "grade", "window_days", "rows",
@@ -131,12 +132,13 @@ def export(db: Path, day: str, out_dir: Path, negilu_root: Path | None) -> None:
     day_rows = []
     query = """
         select date, commodity, variety, market, arrivals,
-               min_price, max_price, modal_price
+               min_price, max_price, modal_price, is_valid, validation_notes
         from prices_kramahistoricstaging
         where date = ?
         order by commodity, market, variety
     """
-    for d, crop, variety_raw, mandi, arrivals, lo, hi, modal in conn.execute(query, (day,)):
+    for (d, crop, variety_raw, mandi, arrivals, lo, hi, modal,
+         is_valid, notes) in conn.execute(query, (day,)):
         if base_crop(crop).lower() not in wanted:
             continue
         day_rows.append({
@@ -150,6 +152,11 @@ def export(db: Path, day: str, out_dir: Path, negilu_root: Path | None) -> None:
             "min_price": lo if lo is not None else "",
             "max_price": hi if hi is not None else "",
             "modal_price": modal if modal is not None else "",
+            # Negilu's own verdict on the row. Exported rather than filtered:
+            # a row the pipeline already rejects is a different problem from
+            # one that slipped through, and the room should tell them apart.
+            "is_valid": 1 if is_valid else 0,
+            "validation_notes": (notes or "").strip(),
         })
 
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -163,10 +170,13 @@ def export(db: Path, day: str, out_dir: Path, negilu_root: Path | None) -> None:
     end = date.fromisoformat(day) - timedelta(days=1)
     start = end - timedelta(days=HISTORY_WINDOW_DAYS - 1)
     buckets: dict[tuple[str, str], dict[str, list]] = {}
+    # Bands are built from valid rows only. A band computed over rows the
+    # pipeline rejected is not what the product believes a crop is worth, and
+    # a single surviving bad row can widen a band until nothing looks wrong.
     hist_query = """
         select date, commodity, variety, modal_price, arrivals
         from prices_kramahistoricstaging
-        where date between ? and ? and modal_price is not null
+        where date between ? and ? and modal_price is not null and is_valid = 1
     """
     for d, crop, variety_raw, modal, arrivals in conn.execute(
         hist_query, (start.isoformat(), end.isoformat())
@@ -209,9 +219,11 @@ def export(db: Path, day: str, out_dir: Path, negilu_root: Path | None) -> None:
 
     missing = sum(1 for r in day_rows if (base_crop(r["crop"]), r["grade"]) not in
                   {(h["crop"], h["grade"]) for h in hist_rows})
-    print(f"  {raw_path.relative_to(REPO)}: {len(day_rows)} rows for {day}")
+    n_valid = sum(1 for r in day_rows if r["is_valid"] == 1)
+    print(f"  {raw_path.relative_to(REPO)}: {len(day_rows)} rows for {day} "
+          f"({n_valid} valid, {len(day_rows) - n_valid} already rejected by Negilu)")
     print(f"  {hist_path.relative_to(REPO)}: {len(hist_rows)} bands "
-          f"over {start} .. {end}")
+          f"over {start} .. {end}, from valid rows only")
     print(f"  grade column from Negilu's canonicaliser: {have_canon}")
     if missing:
         print(f"  note: {missing} rows have no 30-day band (new or renamed grade)")
